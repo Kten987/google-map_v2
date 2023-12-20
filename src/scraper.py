@@ -8,7 +8,15 @@ from .reviews_scraper import GoogleMapsAPIScraper
 from time import sleep, time
 from botasaurus.utils import retry_if_is_error
 from selenium.common.exceptions import  StaleElementReferenceException
+'''
+1. Hàm process_reviews:
 
+Trích xuất các trường dữ liệu mong muốn từ một danh sách reviews về các đánh giá của địa điểm.
+Chuyển đổi một số trường dữ liệu như số ảnh và số đánh giá của người dùng từ chuỗi sang số nguyên.
+Xử lý trường likes (số thích): nếu bằng -1 thì đặt về 0, nếu không thì giữ nguyên giá trị.
+Thêm các trường mới như tổng số đánh giá và ảnh của người dùng, URL người dùng, cờ đánh dấu là hướng dẫn viên địa phương, bản dịch các trường đánh giá và phản hồi (nếu cần).
+Trả về danh sách các đánh giá đã được xử lý, có thể tùy chọn chuyển đổi sang mã ASCII.
+'''
 def process_reviews(reviews, convert_to_english):
     processed_reviews = []
 
@@ -56,6 +64,15 @@ def process_reviews(reviews, convert_to_english):
     output=None,
 
 )
+
+# 2. Hàm scrape_reviews:
+
+# Nhận các tham số requests (instance của lớp AntiDetectRequests) và data chứa thông tin về địa điểm cần cào đánh giá.
+# Trích xuất các tham số cần thiết như ID địa điểm, URL, số lượng đánh giá tối đa, kiểu sắp xếp và ngôn ngữ từ data.
+# Sử dụng lớp GoogleMapsAPIScraper để cào dữ liệu đánh giá từ Google Maps với các tham số đã nêu.
+# Gọi hàm process_reviews để xử lý và làm sạch dữ liệu đánh giá thu được.
+# Trả về một kết quả chứa ID địa điểm và danh sách đánh giá đã được xử lý.
+
 def scrape_reviews(requests: AntiDetectRequests, data):
     place_id = data["place_id"]
     link = data["link"]
@@ -99,6 +116,18 @@ def set_cookies(ck):
     # request_interval=0.2, {ADD}
 
 )
+
+# 3. Hàm scrape_place:
+
+# Nhận các tham số requests và link (URL của địa điểm).
+# Lấy cookie đã lưu trước đó.
+# Thực hiện truy cập trang web theo URL, trích xuất nội dung HTML.
+# Tách nội dung HTML để tìm và lấy phần chứa dữ liệu JavaScript được lưu trữ trong biến app_initialization_state.
+# Gọi hàm extract_data (chưa được cung cấp giải thích) để trích xuất dữ liệu mong muốn từ app_initialization_state.
+# Thêm trường is_spending_on_ads cho biết địa điểm có đang chạy quảng cáo hay không (giá trị mặc định là False).
+# Trả về dữ liệu đã trích xuất và làm sạch.
+# Xử lý ngoại lệ bằng cách ngủ 63 giây và raise lỗi.
+
 def scrape_place(requests: AntiDetectRequests, link):
         cookies = get_cookies()
         try:
@@ -121,6 +150,11 @@ def scrape_place(requests: AntiDetectRequests, link):
             sleep(63)
             raise
 
+# 4. Hàm merge_sponsored_links:
+
+# Duyệt qua danh sách các địa điểm.
+# Đánh dấu các địa điểm có URL nằm trong danh sách liên kết tài trợ (tham số sponsored_links).
+# Trả về danh sách các địa điểm đã được đánh dấu.
 def merge_sponsored_links(places, sponsored_links):
     for place in places:
         place['is_spending_on_ads'] = place['link'] in sponsored_links
@@ -135,6 +169,18 @@ def merge_sponsored_links(places, sponsored_links):
     headless=True,
     output=None,
 )
+
+# 5. Hàm scrape_places_by_links:
+
+# Nhận các tham số driver (instance của AntiDetectDriver) và data chứa danh sách URL các địa điểm và tùy chọn chuyển đổi sang tiếng Anh.
+# Khởi tạo instance của scrape_place bằng cách sử dụng AsyncQueueResult.
+# Lấy cookie từ trình duyệt và lưu vào biến toàn cục.
+# Gọi hàm scrape_place_obj.put để đưa danh sách URL vào hàng đợi xử lý của scrape_place.
+# Chờ kết quả từ hàng đợi và gán vào biến places.
+# Lấy danh sách liên kết tài trợ (nếu có).
+# Đánh dấu các địa điểm có URL nằm trong danh sách liên kết tài trợ.
+# Thực hiện chuyển đổi sang tiếng Anh (nếu cần).
+# Trả về danh sách các địa điểm đã được xử lý.
 def scrape_places_by_links(driver: AntiDetectDriver, data):
     # get's the cookies accepted which scraper needs.
     driver.get_google(True)
@@ -173,6 +219,17 @@ def get_lang(data):
     headless=True,
     output=None,
 )
+
+# 6. Hàm scrape_places:
+
+# Nhận các tham số driver và data chứa thông tin về địa điểm cần cào, ngôn ngữ, tùy chọn chi tiêu cho quảng cáo và chuyển đổi sang tiếng Anh.
+# Khởi tạo instance của scrape_place bằng cách sử dụng AsyncQueueResult.
+# Định nghĩa hàm nội bộ get_sponsored_links để lấy danh sách liên kết tài trợ từ JavaScript nếu cần.
+# Định nghĩa hàm put_links để thực hiện các bước sau:
+# Thực hiện lặp để cuộn xuống trang kết quả và lấy các URL của các địa điểm.
+# Kiểm tra điều kiện số lượng địa điểm tối đa (nếu có).
+# Đưa danh sách URL vào hàng đợi của scrape_place nếu không phải liên kết tài trợ.
+# Kiểm tra điều kiện cuộn trang đã đến cuối hay chưa.
 def scrape_places(driver: AntiDetectDriver, data):
     
     # This fixes consent Issues in Countries like Spain 

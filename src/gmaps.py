@@ -9,6 +9,7 @@ from .category import Category
 from .fields import ALL_FIELDS, ALL_SOCIAL_FIELDS, DEFAULT_SOCIAL_FIELDS, Fields, DEFAULT_FIELDS, DEFAULT_FIELDS_WITHOUT_SOCIAL_DATA, ALL_FIELDS_WITHOUT_SOCIAL_DATA
 from .social_scraper import FAILED_DUE_TO_CREDITS_EXHAUSTED, FAILED_DUE_TO_NOT_SUBSCRIBED, FAILED_DUE_TO_UNKNOWN_ERROR, scrape_social
 
+# Chỉ đơn giản là tạo dict
 def create_place_data(query, is_spending_on_ads, max, lang, geo_coordinates, zoom, convert_to_english):
     place_data = {
             "query": query,
@@ -21,7 +22,7 @@ def create_place_data(query, is_spending_on_ads, max, lang, geo_coordinates, zoo
         }
     return place_data
 
-
+# Hàm chứa thông tin website
 def create_social_scrape_data(places, key):
     social_scrape_data = []
 
@@ -36,7 +37,7 @@ def create_social_scrape_data(places, key):
 
     return social_scrape_data
 
-
+# Phân loại trạng thái craw dữ liệu social
 def clean_social(social_details):
     success, credits_exhausted, not_subscribed, unknown_error = [], [], [], []
 
@@ -52,6 +53,7 @@ def clean_social(social_details):
 
     return success, credits_exhausted, not_subscribed, unknown_error
 
+# Ngoại trừ trường hợp lấy thành công thì các trường hợp lỗi còn lại sẽ xử lí như nào?
 def print_social_errors(credits_exhausted, not_subscribed, unknown_error):
     # print(credits_exhausted)
     if credits_exhausted:
@@ -66,6 +68,7 @@ def print_social_errors(credits_exhausted, not_subscribed, unknown_error):
 
     pass
 
+# Tạo 1 dict rỗng dùng cho trường hợp không có dữ liệu ( hoặc việc lấy dữ liệu lỗi?)
 def get_empty_data():
   EMPTY_SOCIAL_DATA = {
     #   'domain': None,
@@ -84,6 +87,7 @@ def get_empty_data():
   }
   return EMPTY_SOCIAL_DATA
 
+# hàm lấy thông tin social
 def merge_social(places, social_details):
     for place in places:
         found_social_detail = next((detail for detail in social_details if detail['place_id'] == place['place_id']), None)
@@ -93,6 +97,7 @@ def merge_social(places, social_details):
             place.update(get_empty_data())
 
     return places
+
 
 printed = False
 def print_rvs_message(hl):
@@ -211,7 +216,7 @@ def process_result(min_reviews, max_reviews, category_in, has_website, has_phone
           cleaned_places = merge_reviews(cleaned_places, reviews_details)
 
         # 4. Write Output
-      write_output(query, cleaned_places, fields)
+      #write_output(query, cleaned_places, fields)
         
       result_item = {"query": query, "places": cleaned_places}
       return result_item
@@ -284,7 +289,8 @@ class Gmaps:
              reviews_sort: int = NEWEST,
              fields: Optional[List[str]] = DEFAULT_FIELDS,
              lang: Optional[str] = None,
-             geo_coordinates: Optional[str] = None,
+             geo_coordinates: Optional[List[str]] = None,
+             #geo_coordinates: Optional[str] = None,
              zoom: Optional[float] = None) -> List[Dict]:
       """
       Function to scrape Google Maps places based on various criteria.
@@ -318,16 +324,18 @@ class Gmaps:
       fields = determine_fields(fields, should_scrape_socials, scrape_reviews) 
           
       for query in queries:
-        # 1. Scrape Places
-        place_data = create_place_data(query, is_spending_on_ads, max, lang, geo_coordinates, zoom, convert_to_english)
-        places_obj = scraper.scrape_places(place_data, cache = use_cache)
+        for geo in geo_coordinates:
+            # 1. Scrape Places
+            place_data = create_place_data(query, is_spending_on_ads, max, lang, geo, zoom, convert_to_english)
+            places_obj = scraper.scrape_places(place_data, cache = use_cache)
 
-        result_item = process_result(min_reviews, max_reviews, category_in, has_website, has_phone, min_rating, max_rating, sort, key, scrape_reviews, reviews_max, reviews_sort, fields, lang, should_scrape_socials, convert_to_english,use_cache,places_obj)
+            result_item = process_result(min_reviews, max_reviews, category_in, has_website, has_phone, min_rating, max_rating, sort, key, scrape_reviews, reviews_max, reviews_sort, fields, lang, should_scrape_socials, convert_to_english,use_cache,places_obj)
 
-        result.append(result_item)
+            result.append(result_item)
       
       all_places = sort_places(merge_places(result), sort)
-      write_output("all", all_places, fields)
+      #write_output(query, cleaned_places, fields)
+      write_output("Quán nước", all_places, fields)
 
       scraper.scrape_places.close()
       return result

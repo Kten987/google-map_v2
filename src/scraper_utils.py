@@ -32,7 +32,7 @@ def remove_spaces(input_string):
     result_string = input_string.replace(" ", "")
     return result_string
 
-def create_search_link(query: str, lang, geo_coordinates, zoom):
+def create_search_link(query: str, lang, geo_coordinates: str, zoom):
     # Check for invalid combination of geo_coordinates and zoom
     if geo_coordinates is None and zoom is not None:
         raise ValueError("geo_coordinates must be provided along with zoom")
