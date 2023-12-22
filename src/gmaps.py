@@ -335,7 +335,7 @@ class Gmaps:
       
       all_places = sort_places(merge_places(result), sort)
       #write_output(query, cleaned_places, fields)
-      write_output("Quán nước", all_places, fields)
+      write_output("Quán trà", all_places, fields)
 
       scraper.scrape_places.close()
       return result

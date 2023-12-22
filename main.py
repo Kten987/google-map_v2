@@ -11,7 +11,7 @@ fields = [
    Gmaps.Fields.DETAILED_ADDRESS
 ]
 
-queries = ["Quán nước, đồ uống"
+queries = ["Quán trà"
            ]
 
 geo_coordinates = ["10.060336116445198, 105.7793725804415",
@@ -30,7 +30,7 @@ geo_coordinates = ["10.060336116445198, 105.7793725804415",
 "10.033502984314048, 105.76832508554213",
 "10.035510730486168, 105.78333742691751"]
 
-Gmaps.places(queries, geo_coordinates = geo_coordinates, zoom = 19 , max=100, fields=fields, convert_to_english = False ,lang=Gmaps.Lang.Vietnamese)
+Gmaps.places(queries, geo_coordinates = geo_coordinates, zoom = 18 , max=40, fields=fields, convert_to_english = False ,lang=Gmaps.Lang.Vietnamese)
 end_time = time.time()
 elapsed_time = end_time - start_time
 
