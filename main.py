@@ -1,5 +1,7 @@
 from src.gmaps import Gmaps
 import time
+import pandas as pd
+from casefy import kebabcase
 
 start_time = time.time()
 fields = [
@@ -11,8 +13,9 @@ fields = [
    Gmaps.Fields.DETAILED_ADDRESS
 ]
 
-queries = ["Quán trà"
+queries = ["cửa hàng"
            ]
+max = 120
 
 geo_coordinates = ["10.060336116445198, 105.7793725804415",
 "10.041776517690092, 105.79192278333913",
@@ -30,8 +33,14 @@ geo_coordinates = ["10.060336116445198, 105.7793725804415",
 "10.033502984314048, 105.76832508554213",
 "10.035510730486168, 105.78333742691751"]
 
-Gmaps.places(queries, geo_coordinates = geo_coordinates, zoom = 18 , max=40, fields=fields, convert_to_english = False ,lang=Gmaps.Lang.Vietnamese)
+Gmaps.places(queries, geo_coordinates = geo_coordinates, zoom = 18 , max = max, fields=fields, convert_to_english = False ,lang=Gmaps.Lang.Vietnamese)
+
 end_time = time.time()
 elapsed_time = end_time - start_time
 
 print(f"Thời gian chạy: {elapsed_time/60} phút")
+
+xl = kebabcase(queries[0]) + "-" + str(max)
+df = pd.read_csv(f"C:/Users/thinh.lv/google-maps-scraper/output/{xl}/csv/places-of-{xl}.csv").drop_duplicates()
+print(f"Số dòng: {df.shape[0]}")
+df.to_csv(f"C:/Users/thinh.lv/google-maps-scraper/src/csv/{queries[0]}.csv")

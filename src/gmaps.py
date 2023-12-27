@@ -332,10 +332,10 @@ class Gmaps:
             result_item = process_result(min_reviews, max_reviews, category_in, has_website, has_phone, min_rating, max_rating, sort, key, scrape_reviews, reviews_max, reviews_sort, fields, lang, should_scrape_socials, convert_to_english,use_cache,places_obj)
 
             result.append(result_item)
-      
+      out_put = query + str(max)
       all_places = sort_places(merge_places(result), sort)
       #write_output(query, cleaned_places, fields)
-      write_output("Quán trà", all_places, fields)
+      write_output(out_put, all_places, fields)
 
       scraper.scrape_places.close()
       return result
