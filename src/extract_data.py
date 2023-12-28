@@ -10,22 +10,22 @@ def toiso(date):
 
 
 def convert_timestamp_to_iso_date(timestamp):
-    # Convert from microseconds to milliseconds
+    # Chuyển đổi từ micro giây sang mili giây
     milliseconds = int(timestamp) / 1000
     # Create a new Date object
     date = datetime.utcfromtimestamp(milliseconds)
-    # Return the date in the specified format
+    # Trả về ngày ở định dạng đã chỉ định
     return toiso(date)
 
 
 def clean_link(link):
     if link is not None:
-        # Remove everything starting from "&opi"
+        # Xóa mọi thứ bắt đầu từ "&opi"
         opi_index = link.find('&opi')
         if opi_index != -1:
             link = link[:opi_index]
 
-        # Remove "/url?q=" if it's at the start of the link
+        # Xóa "/url?q=" nếu nó ở đầu liên kết
         if link.startswith('/url?q='):
             link = link[len('/url?q='):]
 
@@ -130,10 +130,10 @@ def extract_questions(data):
 
 
 def get_hl_from_link_competitors(link):
-        # Regular expression to find the 'hl' parameter in the URL
+        # Biểu thức chính quy để tìm tham số 'hl' trong URL
         match = rex.search(r"[?&]hl=([^&]+)", link)
         
-        # If found, return the value, otherwise return 'en'
+        # Nếu tìm thấy thì trả về giá trị, nếu không thì trả về 'en'
         return match.group(1) if match else None
 
 
