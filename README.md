@@ -1,3 +1,10 @@
+File scraper_utils.py dùng để tạo url theo từng trường hợp đầu vào: địa chỉ chi tiết, (lat,long), ngôn ngữ trả về,...
+File write_output.py dùng để chỉnh sửa kết quả trả về như nào: thứ tự sắp xếp, lưu file gì, tên như nào,...
+File utils.py dùng để xử lý những ký tự đặc biệt: chữ viết của Ấn Độ,...
+File time_utils.py dùng để xử lý dạng thời gian
+File sort_filter.py dùng để tạo chức năng sắp xếp giá trị trả về
+
+
 ![Google Maps Scraper Feautred Image](https://raw.githubusercontent.com/omkarcloud/google-maps-scraper/master/screenshots/google-maps-scraper-feautred-image.png)
 
 
