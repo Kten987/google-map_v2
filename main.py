@@ -14,9 +14,9 @@ fields = [
    Gmaps.Fields.COORDINATES,
 ]
 
-queries = ["cửa hàng"
+queries = ["Thiết bị y tế"
            ]
-max = 120
+max = 40
 
 geo_coordinates = ["10.060336116445198, 105.7793725804415",
 "10.041776517690092, 105.79192278333913",
