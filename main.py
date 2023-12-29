@@ -10,7 +10,8 @@ fields = [
    Gmaps.Fields.MAIN_CATEGORY, 
    Gmaps.Fields.PHONE, 
    Gmaps.Fields.ADDRESS,
-   Gmaps.Fields.DETAILED_ADDRESS
+   Gmaps.Fields.DETAILED_ADDRESS,
+   Gmaps.Fields.COORDINATES,
 ]
 
 queries = ["cửa hàng"
