@@ -1,9 +1,9 @@
 import traceback
 from botasaurus import *
 from botasaurus.cache import DontCache
-from src.extract_data import extract_data
-from src.scraper_utils import create_search_link, perform_visit
-from src.utils import convert_unicode_dict_to_ascii_dict, unique_strings
+from src.extract_data import extract_data #
+from src.scraper_utils import create_search_link, perform_visit # tạo url
+from src.utils import convert_unicode_dict_to_ascii_dict, unique_strings  # xử lý ký tự đặc biệt 
 from .reviews_scraper import GoogleMapsAPIScraper
 from time import sleep, time
 from botasaurus.utils import retry_if_is_error
@@ -21,7 +21,7 @@ def process_reviews(reviews, convert_to_english):
     processed_reviews = []
 
     for review in reviews:
-        # Convert user_photos and user_reviews to integers, handling None and commas
+        # Chuyển đổi user_photos và user_reviews thành số nguyên, xử lý None và dấu phẩy
         user_photos = review.get("user_photos")
         number_of_photos_by_reviewer = user_photos
         # int(user_photos.replace(",", "").replace(".", "")) if user_photos else 0
@@ -232,7 +232,7 @@ def get_lang(data):
 # Kiểm tra điều kiện cuộn trang đã đến cuối hay chưa.
 def scrape_places(driver: AntiDetectDriver, data):
     
-    # This fixes consent Issues in Countries like Spain 
+    # Điều này khắc phục các vấn đề về sự đồng ý ở các quốc gia như Tây Ban Nha
     max_results = data['max']
     is_spending_on_ads = data['is_spending_on_ads']
     convert_to_english = data['convert_to_english']
@@ -240,7 +240,7 @@ def scrape_places(driver: AntiDetectDriver, data):
     scrape_place_obj: AsyncQueueResult = scrape_place()
 
     sponsored_links = None
-    def get_sponsored_links():
+    def get_sponsored_links():  # trả về danh sách các liên kết
          nonlocal sponsored_links
          if sponsored_links is None:
               sponsored_links = driver.execute_file('get_sponsored_links.js')
@@ -248,7 +248,7 @@ def scrape_places(driver: AntiDetectDriver, data):
 
 
 
-    def put_links():
+    def put_links():  # lấy danh sách địa điểm 
                 start_time = time()
                 
                 WAIT_TIME = 40 # WAIT 40 SECONDS
@@ -309,9 +309,9 @@ def scrape_places(driver: AntiDetectDriver, data):
                             sleep_time = 0.1
                             sleep(sleep_time)
     
-    search_link = create_search_link(data['query'], data['lang'], data['geo_coordinates'], data['zoom'])
+    search_link = create_search_link(data['query'], data['lang'], data['geo_coordinates'], data['zoom']) # tạo ra url
     
-    perform_visit(driver, search_link)
+    perform_visit(driver, search_link) # xử lí cookies
     
     set_cookies(driver.get_cookies_dict())
     

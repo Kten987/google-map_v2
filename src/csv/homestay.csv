@@ -1,166 +1,75 @@
-,place_id,name,main_category,phone,address,address_ward,address_street,address_city,address_postal_code,address_state,address_country_code
-0,ChIJxbxbyKNioDERXomgS5v6cD8,TTC Hotel - Can Tho,Khách sạn,+84 292 3812 210,"TTC Hotel - Can Tho, 2 Đường Hai Bà Trưng, Tân An, Ninh Kiều, Cần Thơ 90000, Việt Nam","Tân An, Ninh Kiều",2 Đường Hai Bà Trưng,Cần Thơ,90000.0,"Ninh Kiều, Cần Thơ",VN
-1,ChIJxbxbyKNioDERDuA1KGPbazg,Khách sạn Ninh Kiều 2,Khách sạn,+84 292 3789 999,"Khách sạn Ninh Kiều 2, 03 Đại lộ Hoà Bình, Tân An, Ninh Kiều, Cần Thơ, Việt Nam","Tân An, Ninh Kiều",03 Đại lộ Hoà Bình,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-2,ChIJf8l5zqtioDER394gqY022iE,Nesta Hotel - Can Tho,Khách sạn,+84 292 3822 216,"Nesta Hotel - Can Tho, 9C Trần Phú, Cái Khế, Ninh Kiều, Cần Thơ, Việt Nam","Cái Khế, Ninh Kiều",9C Trần Phú,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-5,ChIJC8aUjahioDERF7paLkibr0c,Holiday One Hotel,Khách sạn,+84 292 3760 670,"Holiday One Hotel, 59-61-63-65 Pham Ngoc Thach, Việt Nam","Cái Khế, Ninh Kiều",59-61-63-65 Pham Ngoc Thach,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-6,ChIJX92IOPeHoDERLMIPEnf2eBg,Resort Cồn Khương,Khách sạn nghỉ dưỡng,+84 292 3939 955,"Resort Cồn Khương, 99A Đường Nguyễn Hữu Cầu, Cồn Khương, Ninh Kiều, Cần Thơ 94000, Việt Nam","Cồn Khương, Ninh Kiều",99A Đường Nguyễn Hữu Cầu,Cần Thơ,94000.0,"Ninh Kiều, Cần Thơ",VN
-8,ChIJu_P34piJoDER5zYxQf1IJD4,Can Tho Ecolodge,Khách sạn nghỉ dưỡng,+84 336 983 239,"Can Tho Ecolodge, 542, Area No.3, Ba Lang ward, Cái Răng, Cần Thơ, Việt Nam","Ba Láng, Cái Răng","542, Area No.3, Ba Lang ward",Cần Thơ,,"Cái Răng, Cần Thơ",VN
-9,ChIJI22wLBGIoDERDyKs-xeV4v4,Hoa Viên THÀNH ĐẠT,Nhà hàng,+84 292 3891 484,"Hoa Viên THÀNH ĐẠT, TP, 85C hẻm Lò Mổ, 95/4 Đ. Nguyễn Văn Cừ, KV 2, Ninh Kiều, Cần Thơ, Việt Nam","KV 2, Ninh Kiều","TP, 85C hẻm Lò Mổ, 95/4 Đ. Nguyễn Văn Cừ",Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-11,ChIJr1Hq8ahioDERxkKCfNPdRhw,Linh Phuong 2 Hotel,Phòng cho thuê,+84 292 3643 744,"Linh Phuong 2 Hotel, 7 Đ. Trần Đại Nghĩa, Cái Khế, Ninh Kiều, Cần Thơ, Việt Nam","Cái Khế, Ninh Kiều",7 Đ. Trần Đại Nghĩa,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-14,ChIJxbZeTYBjoDERKUs4kD1UH3o,CT MORNING HOSTEL(Khách sạn ở Cần Thơ),Khách sạn,+84 338 658 181,"CT MORNING HOSTEL(Khách sạn ở Cần Thơ), 81 Lý Hồng Thanh, Cái Khế, Ninh Kiều, Cần Thơ, Việt Nam","Cái Khế, Ninh Kiều",81 Lý Hồng Thanh,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-15,ChIJEwdarJ9ioDERpusVVl9nIKA,Vạn Lộc Hotel,Khách sạn,+84 292 3686 876,"Vạn Lộc Hotel, 76 Đ. Đồng Khởi, Tân An, Ninh Kiều, Cần Thơ, Việt Nam","Tân An, Ninh Kiều",76 Đ. Đồng Khởi,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-17,ChIJy_wMc92JoDERNsJddUyLfuQ,Hometravel Mekong Cần Thơ,Khách sạn,+84 978 228 242,"Hometravel Mekong Cần Thơ, 178c Ong Tiem Bridge, Thanh My Area, Cái Răng, Việt Nam","Thường Thạnh, Cái Răng","178c Ong Tiem Bridge, Thanh My Area",Cần Thơ,,"Cái Răng, Cần Thơ",VN
-20,ChIJuVALfOWJoDERTl90L8m_I8g,Homestay Can Tho-Green Sunshine,Nhà nghỉ trượt tuyết,+84 919 513 359,"Homestay Can Tho-Green Sunshine, An Thới, Bình Thủy, Cần Thơ 900000, Việt Nam","Long Hoà, Bình Thủy",An Thới,Cần Thơ,900000.0,"Bình Thủy, Cần Thơ",VN
-22,ChIJG9i5oQKIoDERR1jyrbqMyH0,Lime Hostel (Ninh Kieu Center),Khách sạn,+84 931 300 808,"Lime Hostel (Ninh Kieu Center), 20 Trần Quang Khải, An Hội, Ninh Kiều, Cần Thơ, Việt Nam","An Hội, Ninh Kiều",20 Trần Quang Khải,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-25,ChIJK9y1gPFjoDER-qJqR-sBwgM,MIDMOST Boutique Hostel,Nhà trọ,+84 292 3661 122,"MIDMOST Boutique Hostel, 12/3 Đại lộ Hoà Bình, Tân An, Ninh Kiều, Cần Thơ, Việt Nam","Tân An, Ninh Kiều",12/3 Đại lộ Hoà Bình,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-27,ChIJqS4lrpVjoDERTiAkHJebpUc,Nama Hotel (Ngay TTTM Cái Khế),Khách sạn,+84 774 456 565,"Nama Hotel (Ngay TTTM Cái Khế), 32 Đ. Trần Đại Nghĩa, p, Ninh Kiều, Cần Thơ 900000, Việt Nam","p, Ninh Kiều",32 Đ. Trần Đại Nghĩa,Cần Thơ,900000.0,"Ninh Kiều, Cần Thơ",VN
-29,ChIJ5YegX8WJoDERIk-0_kgDrdo,Boutique Lodge Can Tho Homestay,Khách sạn,+84 918 494 743,"Boutique Lodge Can Tho Homestay, Nhơn Nghĩa, Phong Điền, Cần Thơ 31315, Việt Nam","Nhơn Nghĩa, Phong Điền",,Cần Thơ,31315.0,"Phong Điền, Cần Thơ",VN
-30,ChIJoUqzNS9joDERzd2PGEiP4jA,Winter Spring Homestay,Khách sạn,+84 907 040 033,"Winter Spring Homestay, 75 Đ. Ung Văn Khiêm, An Hội, Ninh Kiều, Cần Thơ 900000, Việt Nam","An Hội, Ninh Kiều",75 Đ. Ung Văn Khiêm,Cần Thơ,900000.0,"Ninh Kiều, Cần Thơ",VN
-43,ChIJubmU91tjoDERYZmFp4cBvoU,Magnolia's Can Tho,Khách sạn,+84 292 3680 066,"Magnolia's Can Tho, 79 Đường Châu Văn Liêm, Tân An, Ninh Kiều, Cần Thơ 94113, Việt Nam","Tân An, Ninh Kiều",79 Đường Châu Văn Liêm,Cần Thơ,94113.0,"Ninh Kiều, Cần Thơ",VN
-44,ChIJPSHwg76JoDEROppM_S13GME,B Home,Nhà trọ,+84 939 056 605,"B Home, 16 Đường Tôn Thất Tùng, Cái Khế, Ninh Kiều, Cần Thơ, Việt Nam","Cái Khế, Ninh Kiều",16 Đường Tôn Thất Tùng,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-48,ChIJ68YDKmWJoDERaWGSGpMyTqU,Mekong Daniel Bungalow,Nhà tranh,+84 919 777 421,"Mekong Daniel Bungalow, Xã Nhơn Nghĩa, H. Phong Điền, Thành Phố Cần Thơ, Vietnam Can Tho City, Việt Nam","Nhơn Nghĩa, Phong Điền","Xã Nhơn Nghĩa, H. Phong Điền, Thành Phố Cần Thơ, Vietnam Can Tho City",Cần Thơ,,"Phong Điền, Cần Thơ",VN
-51,ChIJ7XMs2C2JoDERim9jQQsrVGU,Adora Central Park,Nhà trọ,+84 918 946 299,"Adora Central Park, 6/28 Le Lai Can Tho Can Tho City, 94000, Việt Nam","An Lạc, Ninh Kiều",6/28 Le Lai Can Tho Can Tho City,Cần Thơ,94000.0,"Ninh Kiều, Cần Thơ",VN
-52,ChIJI85HELSJoDER9iXSJSZuBdo,MIDMOST VILLA,Khách sạn,+84 779 661 122,"MIDMOST VILLA, 47 Lê Lai Ninh Kieu Can Tho City, 901700, Việt Nam","An Lạc, Ninh Kiều",47 Lê Lai Ninh Kieu Can Tho City,Cần Thơ,901700.0,"Ninh Kiều, Cần Thơ",VN
-53,ChIJudtD9VCJoDERi-nVGE80SGc,FARMER Homestay,Nhà tranh,+84 908 112 398,"FARMER Homestay, Trường Chuyên Lý Tự Trọng mới, 30D/4, khu vực 2, Cái Răng, Cần Thơ 94000, Việt Nam","khu vực 2, Cái Răng","Trường Chuyên Lý Tự Trọng mới, 30D/4",Cần Thơ,94000.0,"Cái Răng, Cần Thơ",VN
-54,ChIJy5F5N46HoDERE18ZTawlmoo,CHÍNH CHỦ - 299K,Khách sạn,+84 985 139 179,"CHÍNH CHỦ - 299K, 80 Nguyễn Hữu Trí, Cái Khế, Ninh Kiều, Cần Thơ, Việt Nam","Cái Khế, Ninh Kiều",80 Nguyễn Hữu Trí,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-55,ChIJhxg5VgWHoDER03O7O4e86i8,Lasaoma Homestay,Khách sạn,+84 703 150 276,"Lasaoma Homestay, 27 đường, 01 Cầu Cồn Khương, Cái Khế, Ninh Kiều, Cần Thơ 900000, Việt Nam","Cái Khế, Ninh Kiều","27 đường, 01 Cầu Cồn Khương",Cần Thơ,900000.0,"Ninh Kiều, Cần Thơ",VN
-58,ChIJl6X2-aFioDERSxF7aJsHCjU,Winter Spring Hotel,Khách sạn,+84 292 3861 111,"Winter Spring Hotel, 22B Đ. Lê Thánh Tôn, Tân An, Ninh Kiều, Cần Thơ, Việt Nam","Tân An, Ninh Kiều",22B Đ. Lê Thánh Tôn,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-59,ChIJ3WW7jSaJoDERrK7VkKoCMA8,Homestay Chez Moi,Khách sạn,+84 988 258 649,"2P63+59P Homestay Chez Moi, ấp Mỹ Thuận, Phong Điền, Cần Thơ, Việt Nam","ấp Mỹ Thuận, Phong Điền",2P63+59P,Cần Thơ,,"Phong Điền, Cần Thơ",VN
-66,ChIJEcA31HNjoDER1y2YTkVIdTg,MỸ KIM HOTEL- Ngay Bến Ninh Kiều,Khách sạn,+84 705 066 565,"MỸ KIM HOTEL- Ngay Bến Ninh Kiều, 12 Đ. Tân Trào, Tân An, Ninh Kiều, Cần Thơ, Việt Nam","Tân An, Ninh Kiều",12 Đ. Tân Trào,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-67,ChIJf0S-MOiJoDERF-3Z9FJpnTg,Cato Homestay,Lưu trú nhà dân,+84 399 301 068,"Cato Homestay, Bông Vang, Mỹ Khánh, Phong Điền, Cần Thơ 940000, Việt Nam","Mỹ Khánh, Phong Điền","Cato Homestay, Bông Vang",Cần Thơ,940000.0,"Phong Điền, Cần Thơ",VN
-75,ChIJ4T5rgdiJoDERJIwTZ64StjE,Hân Cao Hotel,Khách sạn,+84 916 039 679,"Hân Cao Hotel, 53B Đường Số 4, khu dân cư, Ninh Kiều, Cần Thơ, Việt Nam","khu dân cư, Ninh Kiều",53B Đường Số 4,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-76,ChIJ81OLwzuJoDERVOuGVCr_qic,Bonne Vie' Homestay,Khách sạn,+84 988 950 660,"Bonne Vie' Homestay, 68 Đường 15 KDC 586, Phú Thứ, Cái Răng, Cần Thơ 94000, Việt Nam","Phú Thứ, Cái Răng",68 Đường 15 KDC 586,Cần Thơ,94000.0,"Cái Răng, Cần Thơ",VN
-80,ChIJEfvxjNKJoDERa2caAXCe-hU,Chill Guesthouse Can Tho,Khách sạn,+84 907 198 322,"Chill Guesthouse Can Tho, City, 187 Nguyễn Thị Minh Khai, An Lạc, Ninh Kiều, Cần Thơ, Việt Nam","An Lạc, Ninh Kiều","City, 187 Nguyễn Thị Minh Khai",Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-82,ChIJnzu2R4ljoDER42BBD0WtxIE,Emerald Boutique Stay,Lưu trú nhà dân,+84 988 777 698,"Emerald Boutique Stay, 42 Đ. Đề Thám, Tân An, Ninh Kiều, Cần Thơ 94000, Việt Nam","Tân An, Ninh Kiều",42 Đ. Đề Thám,Cần Thơ,94000.0,"Ninh Kiều, Cần Thơ",VN
-84,ChIJr3RJlRSJoDERzqOKgcnPdyM,Rich Hotel,Khách sạn,+84 365 550 024,"Rich Hotel, 86D Hùng Vương, An Cư, Ninh Kiều, Cần Thơ 90000, Việt Nam","An Cư, Ninh Kiều",86D Hùng Vương,Cần Thơ,90000.0,"Ninh Kiều, Cần Thơ",VN
-86,ChIJQ_BEfR2LoDERu2YhTnh4F8k,Tây Đô Homestay,Lưu trú nhà dân,+84 706 200 009,"Tây Đô Homestay, 327 Đường Huỳnh Thị Nỡ, Thường Thạnh, Cái Răng, Cần Thơ 94000, Việt Nam","Thường Thạnh, Cái Răng",327 Đường Huỳnh Thị Nỡ,Cần Thơ,94000.0,"Cái Răng, Cần Thơ",VN
-87,ChIJX1IaN5mJoDER_JzYqn4ZFt8,Kiely’s Homestay 1,Khách sạn,+84 914 444 574,"Kiely’s Homestay 1, 609 Đ. 30 Tháng 4, Hưng Lợi, Ninh Kiều, Cần Thơ, Việt Nam","Hưng Lợi, Ninh Kiều",609 Đ. 30 Tháng 4,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-105,ChIJ0b4mSfdjoDERK9z29_MUCdk,De RiVé HomeStay,Khách sạn,+84 789 664 777,"De RiVé HomeStay, 10 Đ. Thủ Khoa Huân, Tân An, Ninh Kiều, Cần Thơ, Việt Nam","Tân An, Ninh Kiều",10 Đ. Thủ Khoa Huân,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-111,ChIJ8cdiCueJoDERFh2ao_ZcBmg,LA' ANH Boutique Stay,Lưu trú nhà dân,+84 939 461 389,"LA' ANH Boutique Stay, 43 Đoàn Thị Điểm, p, Ninh Kiều, Cần Thơ 94000, Việt Nam","p, Ninh Kiều",43 Đoàn Thị Điểm,Cần Thơ,94000.0,"Ninh Kiều, Cần Thơ",VN
-112,ChIJrTxCfoBjoDERIyp2UiPJTqY,De Aquar Home Can Tho,Khách sạn,+84 396 188 008,"De Aquar Home Can Tho, 71 Trần Phú, Cái Khế, Ninh Kiều, Cần Thơ 90000, Việt Nam","Cái Khế, Ninh Kiều",71 Trần Phú,Cần Thơ,90000.0,"Ninh Kiều, Cần Thơ",VN
-117,ChIJvTSfx49joDERwI3eTnK2eKQ,T&T Homestay (Ngôi nhà thông minh),Lưu trú nhà dân,+84 913 446 022,"T&T Homestay (Ngôi nhà thông minh), Đường số 1 34D3 Khu nhà ở Nam Long, Cái Răng, Cần Thơ, Việt Nam","Hưng Phú, Cái Răng",Đường số 1 34D3 Khu nhà ở Nam Long,Cần Thơ,,"Cái Răng, Cần Thơ",VN
-118,ChIJ1W_RgROJoDERInhvsbuC5SE,NHÀ TRỌ PHƯƠNG NHƯ,Lưu trú nhà dân,,"NHÀ TRỌ PHƯƠNG NHƯ, 85/15 Hẻm 5, Đ. Trần Vĩnh Kiết, An Bình, Ninh Kiều, Cần Thơ 902430, Việt Nam","An Bình, Ninh Kiều","85/15 Hẻm 5, Đ. Trần Vĩnh Kiết",Cần Thơ,902430.0,"Ninh Kiều, Cần Thơ",VN
-121,ChIJBd0Gb06HoDER8WE8N1qV7qU,Khách sạn homestay KV II,Khách sạn,+84 975 741 761,"Khách sạn homestay KV II, 117 Trần Văn Nghiêm, An Thới, Bình Thủy, Cần Thơ 900000, Việt Nam","An Thới, Bình Thủy",117 Trần Văn Nghiêm,Cần Thơ,900000.0,"Bình Thủy, Cần Thơ",VN
-122,ChIJldzJUFWJoDER5IxGV1uEN1E,Quyen's House,Khách sạn,+84 947 122 514,"Quyen's House, 14/54B Đ. Lý Tự Trọng, An Cư, Ninh Kiều, Cần Thơ 90000, Việt Nam","An Cư, Ninh Kiều",14/54B Đ. Lý Tự Trọng,Cần Thơ,90000.0,"Ninh Kiều, Cần Thơ",VN
-125,ChIJs77ogrljoDERkRWOKQoyeSU,Hà Phương Hotel,Khách sạn,+84 975 642 943,"Hà Phương Hotel, 120/10B Trần Phú, Cái Khế, Ninh Kiều, Cần Thơ 94000, Việt Nam","Cái Khế, Ninh Kiều",120/10B Trần Phú,Cần Thơ,94000.0,"Ninh Kiều, Cần Thơ",VN
-136,ChIJOZdQXndjoDERq7ziM7plSzE,Winter Spring Homestay Center,Khách sạn,+84 348 030 303,"Winter Spring Homestay Center, 14 Đ. Trần Đại Nghĩa, Cái Khế, Ninh Kiều, Cần Thơ 900000, Việt Nam","Cái Khế, Ninh Kiều",14 Đ. Trần Đại Nghĩa,Cần Thơ,900000.0,"Ninh Kiều, Cần Thơ",VN
-146,ChIJjTRUKUtjoDERboboHRQvb3s,T.house homestay,Khách sạn,,"T.house homestay, 58 Hẻm 1 Đ. Hoàng Văn Thụ, Tân An, Ninh Kiều, Cần Thơ, Việt Nam","Tân An, Ninh Kiều",58 Hẻm 1 Đ. Hoàng Văn Thụ,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-151,ChIJSduuGTuJoDERSFDzySzVObs,SPOT ON 786 K-h-o-m-e Homestay,Khách sạn,+84 393 295 760,"SPOT ON 786 K-h-o-m-e Homestay, City, 11/17, Tran Binh Trong, ward, street, Ninh Kiều, Cần Thơ 900000, Việt Nam","street, Ninh Kiều","City, 11/17, Tran Binh Trong, ward",Cần Thơ,900000.0,"Ninh Kiều, Cần Thơ",VN
-153,ChIJCWEwS6mJoDERb2Yo-D25Who,Emerald Homestay & Tea,Lưu trú nhà dân,+84 988 777 698,"Emerald Homestay & Tea, 65 Đ. Trần Bình Trọng, An Phú, Ninh Kiều, Cần Thơ, Việt Nam","An Phú, Ninh Kiều",65 Đ. Trần Bình Trọng,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-155,ChIJlY6DL7ljoDERGELyMYnHJSI,Hotel An Ngọc,Khách sạn,+84 292 3863 456,"Hotel An Ngọc, 26 Lý Hồng Thanh, Cái Khế, Ninh Kiều, Cần Thơ, Việt Nam","Cái Khế, Ninh Kiều",26 Lý Hồng Thanh,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-168,ChIJp8FRQDaIoDERgcVcAmwrfRY,Nhà trọ SV Phương Lan,Lưu trú nhà dân,+84 907 750 527,"Nhà trọ SV Phương Lan, 17/3 Hẻm 132 Đ. 3 Tháng 2, Hưng Lợi, Ninh Kiều, Cần Thơ, Việt Nam","Hưng Lợi, Ninh Kiều",17/3 Hẻm 132 Đ. 3 Tháng 2,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-170,ChIJ7-ejSBGJoDER3KSGk8UW6Tw,Gaọ homestay,Khách sạn,+84 939 157 788,"Gaọ homestay, 133/2C Đ. Trần Hưng Đạo, An Phú, Ninh Kiều, Cần Thơ 90000, Việt Nam","An Phú, Ninh Kiều",133/2C Đ. Trần Hưng Đạo,Cần Thơ,90000.0,"Ninh Kiều, Cần Thơ",VN
-178,ChIJYdIqSKhioDERZ8z-i2Wsi0c,Massage & Hotel Quý Phi Cần Thơ,Khách sạn,+84 886 079 079,"Massage & Hotel Quý Phi Cần Thơ, 65-67 Đ. Hồ Tùng Mậu, Cái Khế, Ninh Kiều, Cần Thơ 94107, Việt Nam","Cái Khế, Ninh Kiều",65-67 Đ. Hồ Tùng Mậu,Cần Thơ,94107.0,"Ninh Kiều, Cần Thơ",VN
-179,ChIJM2X17t6JoDERBCBiDmDj7EU,Nhà nghỉ Lê Anh 49,Khách sạn nghỉ dưỡng,+84 292 3898 152,"Nhà nghỉ Lê Anh 49, tp 49 Trần Văn Ơn, P, Ninh Kiều, Cần Thơ 90000, Việt Nam","P, Ninh Kiều",tp 49 Trần Văn Ơn,Cần Thơ,90000.0,"Ninh Kiều, Cần Thơ",VN
-180,ChIJU5wBx0OJoDEREU8DIqdvXUg,Thien Lam Homestay,Khách sạn,+84 963 135 850,"Thien Lam Homestay, 40 đường số 4, Khu dân cư Đại Ngân, Ninh Kiều, Cần Thơ 94000, Việt Nam","Khu dân cư Đại Ngân, Ninh Kiều",40 đường số 4,Cần Thơ,94000.0,"Ninh Kiều, Cần Thơ",VN
-191,ChIJEcJEqMOJoDERI-MXVniWMpc,Vườn Của Nguyệt,Lưu trú nhà dân,+84 984 751 127,"Vườn Của Nguyệt, 135/19/6 Đồng Văn Cống, An Thới, Bình Thuỷ Cần Thơ Can Tho City, 94213, Việt Nam","An Thới, Bình Thủy","135/19/6 Đồng Văn Cống, An Thới, Bình Thuỷ Cần Thơ Can Tho City",Cần Thơ,94213.0,"Bình Thủy, Cần Thơ",VN
-196,ChIJv5irAW-JoDERzdwUloNu7XA,HOMESTAY MEKONG 99,Lưu trú nhà dân,+84 939 499 486,"XQP6+J8G HOMESTAY MEKONG 99, Thường Thạnh, Cái Răng, Cần Thơ, Việt Nam","Thường Thạnh, Cái Răng",XQP6+J8G,Cần Thơ,,"Cái Răng, Cần Thơ",VN
-207,ChIJ66PVXCdjoDERCQTl5hcvqdQ,Khóm Homestay,Lưu trú nhà dân,+84 292 3661 122,"Khóm Homestay, 45/5 Ngô Văn Sở Ninh Kiều Cần Thơ Can Tho City, 901700, Việt Nam","Tân An, Ninh Kiều",45/5 Ngô Văn Sở Ninh Kiều Cần Thơ Can Tho City,Cần Thơ,901700.0,"Ninh Kiều, Cần Thơ",VN
-213,ChIJCenaPyWJoDERB1SnIqVm_2E,Homestay TiKoi,Lưu trú nhà dân,+84 913 973 814,"Homestay TiKoi, 37 Đường B13, Khu dân cư 91B, Ninh Kiều, Cần Thơ, Việt Nam","Khu dân cư 91B, Ninh Kiều",37 Đường B13,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-217,ChIJ7cZFSIWJoDER2oK3vRDCWYE,Emily House,Lưu trú nhà dân,+84 935 565 657,"Emily House, 35b Đường số 3, Phường An Khánh, Ninh Kiều, Cần Thơ 900000, Việt Nam","Phường An Khánh, Ninh Kiều",35b Đường số 3,Cần Thơ,900000.0,"Ninh Kiều, Cần Thơ",VN
-232,ChIJIwgad6FjoDERDJfCQ36T_qc,Khách sạn Mường Thanh Luxury Cần Thơ,Khách sạn,+84 292 3688 888,"Khách sạn Mường Thanh Luxury Cần Thơ, Khu E1, cồn, Ninh Kiều, Cần Thơ 900000, Việt Nam","Cái Khế, Ninh Kiều","Khu E1, cồn",Cần Thơ,900000.0,"Ninh Kiều, Cần Thơ",VN
-233,ChIJq6qqqq5ioDERX8Y8fIKI25c,Khách Sạn Aura Cần Thơ,Khách sạn,+84 292 3750 099,"Khách Sạn Aura Cần Thơ, 79B Đ. Phạm Ngọc Thạch, Cái Khế, Ninh Kiều, Cần Thơ, Việt Nam","Cái Khế, Ninh Kiều",79B Đ. Phạm Ngọc Thạch,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-234,ChIJ1S9NLaBioDERnVlW2tDnsyQ,Kim Lân Hotel,Khách sạn,+84 292 3817 049,"Kim Lân Hotel, 138A Đường Nguyễn An Ninh, Tân An, Ninh Kiều, Cần Thơ, Việt Nam","Tân An, Ninh Kiều",138A Đường Nguyễn An Ninh,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-235,ChIJ85IXR59ioDERoiM-YPDJaYQ,RUBYct HOTEL,Khách sạn,+84 292 3912 777,"RUBYct HOTEL, 34 Đường Nguyễn An Ninh, Tân An, Ninh Kiều, Cần Thơ, Việt Nam","Tân An, Ninh Kiều",34 Đường Nguyễn An Ninh,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-237,ChIJeWGW4GSJoDER6u_aLcMFdis,FIT Hotel Can Tho,Khách sạn,+84 865 818 008,"FIT Hotel Can Tho, D3-23 Trần Quang Khải, An Hội, Ninh Kiều, Cần Thơ 901014, Việt Nam","An Hội, Ninh Kiều",D3-23 Trần Quang Khải,Cần Thơ,901014.0,"Ninh Kiều, Cần Thơ",VN
-240,ChIJkfa53cxjoDERyXkRwsk6CD8,MES Hotel,Khách sạn,+84 707 066 565,"MES Hotel, 18 Đ. Tân Trào, Tân An, Ninh Kiều, Cần Thơ 940000, Việt Nam","Tân An, Ninh Kiều",18 Đ. Tân Trào,Cần Thơ,940000.0,"Ninh Kiều, Cần Thơ",VN
-241,ChIJffptYf6HoDER9udZX2iY8x0,Kim Phụng Ngân Hotel,Khách sạn,+84 292 3769 486,"Kim Phụng Ngân Hotel, 126 Phạm Công Trứ, Cái Khế, Ninh Kiều, Cần Thơ, Việt Nam","Cái Khế, Ninh Kiều",126 Phạm Công Trứ,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-242,ChIJtzxpBSSIoDERl1AEdefObNk,Koa Phu Hotel,Khách sạn,,"2QGG+Q55 Koa Phu Hotel, Xuân Khánh, Ninh Kiều, Cần Thơ, Việt Nam","Xuân Khánh, Ninh Kiều",2QGG+Q55,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-244,ChIJM2HRwf2JoDERSI9qCdfgoCk,Khách Sạn Quang Sang,Khách sạn,+84 292 3820 980,"Khách Sạn Quang Sang, 78 Hùng Vương, An Hội, Ninh Kiều, Cần Thơ 900000, Việt Nam","An Hội, Ninh Kiều",78 Hùng Vương,Cần Thơ,900000.0,"Ninh Kiều, Cần Thơ",VN
-245,ChIJJz8CNxiIoDERyj5gc4Mqv5g,Can Tho Riverside Hostel,Phòng cho thuê,+84 934 188 687,"Can Tho Riverside Hostel, 454B Đinh Công Chánh, Long Hoà, Bình Thủy, Cần Thơ, Việt Nam","Long Hoà, Bình Thủy",454B Đinh Công Chánh,Cần Thơ,,"Bình Thủy, Cần Thơ",VN
-247,ChIJtSHKMQtjoDERDInkq6I3-Uc,LION 3 HOTEL,Khách sạn,+84 292 3777 766,"LION 3 HOTEL, 14-16 Đ. Phạm Ngọc Thạch, Cái Khế, Ninh Kiều, Cần Thơ 94000, Việt Nam","Cái Khế, Ninh Kiều",14-16 Đ. Phạm Ngọc Thạch,Cần Thơ,94000.0,"Ninh Kiều, Cần Thơ",VN
-248,ChIJCY3Hp4dioDERpBzyMkgpv_E,N&D Homestay,Khách sạn,+84 907 610 300,"N&D Homestay, Đường số 24, Hưng Phú, Cái Răng, Cần Thơ, Việt Nam","Hưng Phú, Cái Răng",Đường số 24,Cần Thơ,,"Cái Răng, Cần Thơ",VN
-257,ChIJy-JMwJ6JoDER3CtM8TA1594,Homestay Song Ngư,Căn hộ nghỉ dưỡng cho thuê,+84 975 124 848,"Homestay Song Ngư, Mỹ Khánh, Phong Điền, Cần Thơ, Việt Nam","Mỹ Khánh, Phong Điền",,Cần Thơ,,"Phong Điền, Cần Thơ",VN
-258,ChIJbRfuCV9joDER4ucEDMGav8w,Thanh Hằng homestay,Nhà nghỉ trượt tuyết,+84 948 331 990,"Thanh Hằng homestay, 54/3 Nguyễn Thái Học, Tân An, Ninh Kiều, Cần Thơ, Việt Nam","Tân An, Ninh Kiều",54/3 Nguyễn Thái Học,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-273,ChIJreZ4gB5joDERTv7jcBywFBA,NHÂN TÂY HOSTEL,Khách sạn lưu trú dài hạn,+84 965 816 876,"NHÂN TÂY HOSTEL, 7 Lý Hồng Thanh, Cái Khế, Ninh Kiều, Cần Thơ 90000, Việt Nam","Cái Khế, Ninh Kiều",7 Lý Hồng Thanh,Cần Thơ,90000.0,"Ninh Kiều, Cần Thơ",VN
-274,ChIJpy6nWShjoDERYsD7sATyImg,K2 Homestay & Coffee,Khách sạn,+84 902 969 798,"K2 Homestay & Coffee, 60 Đ. Xô Viết Nghệ Tĩnh, Tân An, Ninh Kiều, Cần Thơ, Việt Nam","Tân An, Ninh Kiều",60 Đ. Xô Viết Nghệ Tĩnh,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-282,ChIJ5-C_8ppjoDERY9mvmgYEwZo,54 Homestay,Khách sạn,+84 292 3525 454,"54 Homestay, 54/7A Nguyễn Thái Học, Tân An, Ninh Kiều, Cần Thơ 900000, Việt Nam","Tân An, Ninh Kiều",54/7A Nguyễn Thái Học,Cần Thơ,900000.0,"Ninh Kiều, Cần Thơ",VN
-285,ChIJp3MKUKNjoDERsK0cxy5KRVI,Hotel Linh Phương 5,Khách sạn,+84 292 3863 399,"Hotel Linh Phương 5, 31-33 Trần Quang Khải, Cái Khế, Ninh Kiều, Cần Thơ 900000, Việt Nam","Cái Khế, Ninh Kiều",31-33 Trần Quang Khải,Cần Thơ,900000.0,"Ninh Kiều, Cần Thơ",VN
-298,ChIJV46o389joDERCWAJ544Lly4,ALUNY - BOUTIQUE STAY,Khách sạn,+84 908 220 613,"ALUNY - BOUTIQUE STAY, 28 Ngô Đức Kế, Tân An, Ninh Kiều, Cần Thơ, Việt Nam","Tân An, Ninh Kiều",28 Ngô Đức Kế,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-300,ChIJk51BT76JoDERdBGwMwcVDlA,WELKOM INN,Nhà trọ,+84 932 889 224,"WELKOM INN, 8 Nguyễn Văn Trỗi, Xuân Khánh, Ninh Kiều, Cần Thơ, Việt Nam","Xuân Khánh, Ninh Kiều",8 Nguyễn Văn Trỗi,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-302,ChIJz0a7YEGHoDERyjIpw4eWAN4,Bến đò xưa homestay and coffee,Lưu trú nhà dân,+84 939 838 831,"Bến đò xưa homestay and coffee, City, 23/4C, Nguyễn Việt Dũng, Lê Bình, Cái Răng, Cần Thơ, Việt Nam","Lê Bình, Cái Răng","City, 23/4C, Nguyễn Việt Dũng",Cần Thơ,,"Cái Răng, Cần Thơ",VN
-308,ChIJgfyai59ioDERw6wjDuxIOTw,DNTN Khách sạn Nam Đô 2,Khách sạn,+84 292 3817 883,"DNTN Khách sạn Nam Đô 2, 71 Đ. Nam Kỳ Khởi Nghĩa, P, Ninh Kiều, Cần Thơ, Việt Nam","P, Ninh Kiều",71 Đ. Nam Kỳ Khởi Nghĩa,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-309,ChIJrwjlL8eOoDERptX4kb_igkE,Homestay Mỹ Thuận,Khách sạn,+84 778 082 127,"Homestay Mỹ Thuận, Mỹ Khánh, Phong Điền, Cần Thơ, Việt Nam","Mỹ Khánh, Phong Điền",,Cần Thơ,,"Phong Điền, Cần Thơ",VN
-310,ChIJ2U8Et4-JoDERIWsYakN6tyA,KHÁCH SẠN LINH PHƯƠNG 6,Khách sạn,+84 292 3736 688,"KHÁCH SẠN LINH PHƯƠNG 6, 167/3 Đ. Phạm Hùng, P, Cái Răng, Cần Thơ 92000, Việt Nam","P, Cái Răng",167/3 Đ. Phạm Hùng,Cần Thơ,92000.0,"Cái Răng, Cần Thơ",VN
-313,ChIJkR43RxWJoDERsdVdMn0XHjk,LION 6 HOTEL,Khách sạn,+84 292 3797 733,"LION 6 HOTEL, 180/9 Hẻm 558, Hưng Lợi, Ninh Kiều, Cần Thơ 900000, Việt Nam","Hưng Lợi, Ninh Kiều",180/9 Hẻm 558,Cần Thơ,900000.0,"Ninh Kiều, Cần Thơ",VN
-314,ChIJaTmcLACJoDERt133-6rJ710,Nhà nghỉ Hạnh Phát 9,Khách sạn,+84 799 034 879,"Nhà nghỉ Hạnh Phát 9, 167-203, ĐT923, Mỹ Khánh, Phong Điền, Cần Thơ, Việt Nam","Mỹ Khánh, Phong Điền","167-203, ĐT923",Cần Thơ,,"Phong Điền, Cần Thơ",VN
-316,ChIJn4FOvEhjoDERVHsxddeog_A,09 Homestay,Khách sạn,+84 292 6510 510,"09 Homestay, Đường B9, KDC Hưng Phú 1, Cái Răng, Cần Thơ, Việt Nam","KDC Hưng Phú 1, Cái Răng",Đường B9,Cần Thơ,,"Cái Răng, Cần Thơ",VN
-327,ChIJQSnAXXRjoDEROjXbozw_Us4,LINH PHUONG 8 HOTEL,Khách sạn,+84 292 3769 494,"LINH PHUONG 8 HOTEL, 97Đ Đ. Phạm Ngọc Thạch, Cái Khế, Ninh Kiều, Cần Thơ 900000, Việt Nam","Cái Khế, Ninh Kiều",97Đ Đ. Phạm Ngọc Thạch,Cần Thơ,900000.0,"Ninh Kiều, Cần Thơ",VN
-329,ChIJS-TvcDCIoDERXmJRkH0SZyA,Nhà Nghỉ Sơn Hà,Phòng cho thuê,+84 292 3839 965,"Nhà Nghỉ Sơn Hà, 172 Đ. Lê Bình, Hưng Lợi, Ninh Kiều, Cần Thơ, Việt Nam","Hưng Lợi, Ninh Kiều",172 Đ. Lê Bình,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-330,ChIJY2qWyH6JoDER7oSeAXCJLH0,Khách sạn Trường Phát,Khách sạn,+84 932 999 645,"Khách sạn Trường Phát, 38/5A Đ. 3 Tháng 2, P, Ninh Kiều, Cần Thơ 920000, Việt Nam","P, Ninh Kiều",38/5A Đ. 3 Tháng 2,Cần Thơ,920000.0,"Ninh Kiều, Cần Thơ",VN
-332,ChIJhV5st22IoDERn6JcyqSGHkU,Homestay ut hoai cai son,Chỗ trọ trong nhà,+84 986 266 401,"Homestay ut hoai cai son, KV Lợi Dũ A, Đường nội bộ KDC Lợi Dũ, An Bình, Ninh Kiều, Cần Thơ, Việt Nam","An Bình, Ninh Kiều","KV Lợi Dũ A, Đường nội bộ KDC Lợi Dũ",Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-337,ChIJP9C5RlyJoDERG0W3kju-sHw,NHÀ NGHỈ HẠNH PHÁT 2,Nhà nghỉ trượt tuyết,+84 969 850 959,"NHÀ NGHỈ HẠNH PHÁT 2, 249H Trần Hưng Đạo nối dài, Lê Bình, Cái Răng, Cần Thơ, Việt Nam","Lê Bình, Cái Răng",249H Trần Hưng Đạo nối dài,Cần Thơ,,"Cái Răng, Cần Thơ",VN
-339,ChIJ5cHvY0CJoDERhsrkVEZ0eX4,Ba Xinh Homestay,Khách sạn,+84 961 809 761,"Ba Xinh Homestay, 303 Mỹ Long, Mỹ Khánh, Phong Điền, Cần Thơ, Việt Nam","Mỹ Khánh, Phong Điền",303 Mỹ Long,Cần Thơ,,"Phong Điền, Cần Thơ",VN
-344,ChIJM57Gw-eJoDERDCjioTtcrfk,Ruby Motel,Nhà nghỉ trượt tuyết,+84 793 933 668,"Ruby Motel, 2 Đ. Số 9, KDC Hồng Phát A, Ninh Kiều, Cần Thơ 90000, Việt Nam","KDC Hồng Phát A, Ninh Kiều",2 Đ. Số 9,Cần Thơ,90000.0,"Ninh Kiều, Cần Thơ",VN
-345,ChIJK8392RKJoDERsofifaeQYl4,Nhà nghỉ THANH BÌNH,Khách sạn,+84 939 987 266,"Nhà nghỉ THANH BÌNH, KDC Quân đội C1, Yên Hạ, Thường Thạnh, Cái Răng, Cần Thơ 94908, Việt Nam","Thường Thạnh, Cái Răng","KDC Quân đội C1, Yên Hạ",Cần Thơ,94908.0,"Cái Răng, Cần Thơ",VN
-346,ChIJM8PMvwJjoDERHMPiRiSJEp8,Khách sạn Diễm Minh,Khách sạn,+84 292 2233 399,"Khách sạn Diễm Minh, 22 Đ. Trần Đại Nghĩa, Cái Khế, Ninh Kiều, Cần Thơ 900000, Việt Nam","Cái Khế, Ninh Kiều",22 Đ. Trần Đại Nghĩa,Cần Thơ,900000.0,"Ninh Kiều, Cần Thơ",VN
-347,ChIJ87DsGPpjoDER6WOLqcNyrJ4,Nhân Tây 2 Hotel,Khách sạn lưu trú dài hạn,+84 767 905 907,"Nhân Tây 2 Hotel, 41-43 Đ. Trần Đại Nghĩa, Cái Khế, Ninh Kiều, Cần Thơ 90000, Việt Nam","Cái Khế, Ninh Kiều",41-43 Đ. Trần Đại Nghĩa,Cần Thơ,90000.0,"Ninh Kiều, Cần Thơ",VN
-349,ChIJyaAXVX6JoDERpCNgpL2dIDk,An’s House,Lưu trú nhà dân,+84 939 154 915,"An’s House, 30 Đ. Lê Anh Xuân, An Cư, Ninh Kiều, Cần Thơ 900000, Việt Nam","An Cư, Ninh Kiều",30 Đ. Lê Anh Xuân,Cần Thơ,900000.0,"Ninh Kiều, Cần Thơ",VN
-360,ChIJ3_10j66JoDERXPIKQOFuR2E,Mekong Farmstay Can Tho,Khách sạn,+84 918 707 345,"Mekong Farmstay Can Tho, 284/CT Rạch Cai Tac, Đ. Tạ Thị Phi, An Bình, Bình Thủy, Cần Thơ, Việt Nam","An Bình, Bình Thủy","284/CT Rạch Cai Tac, Đ. Tạ Thị Phi",Cần Thơ,,"Bình Thủy, Cần Thơ",VN
-361,ChIJravwYahioDERC_bP1WjceFo,Khách Sạn Ngọc Mai 2,Khách sạn,+84 292 3769 567,"Khách Sạn Ngọc Mai 2, 9 Lý Hồng Thanh, Cái Khế, Ninh Kiều, Cần Thơ, Việt Nam","Cái Khế, Ninh Kiều",9 Lý Hồng Thanh,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-362,ChIJYxvwoAJjoDERD1LxEsybfFg,Lion 8 Hotel,Khách sạn,+84 292 3750 099,"Lion 8 Hotel, 79B Đ. Phạm Ngọc Thạch, Cái Khế, Ninh Kiều, Cần Thơ 900000, Việt Nam","Cái Khế, Ninh Kiều",79B Đ. Phạm Ngọc Thạch,Cần Thơ,900000.0,"Ninh Kiều, Cần Thơ",VN
-363,ChIJ3SXyQHCJoDERxrV7A9Uydx8,Stay house,Nhà trọ,,"Stay house, 1 Đ. Lê Lai, An Lạc, Ninh Kiều, Cần Thơ, Việt Nam","An Lạc, Ninh Kiều",1 Đ. Lê Lai,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-370,ChIJiXSZ-41joDER8jIrN7xo0KA,MIDMOST CASA,Nhà trọ,,"MIDMOST CASA, 11 Võ Thị Sáu, Tân An, Ninh Kiều, Cần Thơ, Việt Nam","Tân An, Ninh Kiều",11 Võ Thị Sáu,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-371,ChIJ51L7oRmLoDERuRt12r3ijyk,GÒ CHANH HOMESTAY,Lưu trú nhà dân,,"WQX7+VV9 GÒ CHANH HOMESTAY, ĐT925, Đông Thạnh, Châu Thành, Hậu Giang, Việt Nam","Đông Thạnh, Châu Thành","WQX7+VV9, ĐT925",Hậu Giang,,"Châu Thành, Hậu Giang",VN
-372,ChIJk4wjlBuIoDERNU-NYK9-Q_s,MID NIGHT HOMESTAY CẦN THƠ,Khách sạn,+84 797 979 996,"MID NIGHT HOMESTAY CẦN THƠ, 89/4 Đ. Huỳnh Thúc Kháng, An Nghiệp, Ninh Kiều, Cần Thơ, Việt Nam","An Nghiệp, Ninh Kiều",89/4 Đ. Huỳnh Thúc Kháng,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-373,ChIJxQLYH5KJoDERvmjdBDgzt8A,KIDU HOMESTAY,Lưu trú nhà dân,+84 907 370 918,"KIDU HOMESTAY, 139 ấp Mỹ Lộc, Mỹ Khánh, Phong Điền, Cần Thơ, Việt Nam","Mỹ Khánh, Phong Điền",139 ấp Mỹ Lộc,Cần Thơ,,"Phong Điền, Cần Thơ",VN
-380,ChIJ4_Uj8h-JoDERmLVoPiyDlNo,Homestay Nhà Đom Đóm,Căn hộ nghỉ mát,+84 907 881 137,"Homestay Nhà Đom Đóm, 94 Lộ Vòng Cung, An Bình, Ninh Kiều, Cần Thơ, Việt Nam","An Bình, Ninh Kiều",94 Lộ Vòng Cung,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-382,ChIJM87ZIhWJoDERJFNb3Invu8w,Homestay Miền Tây,Khách sạn,+84 898 449 126,"Homestay Miền Tây, QL61C, Nhơn Nghĩa, Phong Điền, Cần Thơ, Việt Nam","Nhơn Nghĩa, Phong Điền",QL61C,Cần Thơ,,"Phong Điền, Cần Thơ",VN
-386,ChIJhyUys52JoDERwraBgUAJC2Q,MIHA Homestay,Khách sạn,+84 338 286 665,"MIHA Homestay, 17 Đ. Trần Khánh Dư, Xuân Khánh, Ninh Kiều, Cần Thơ 900000, Việt Nam","Xuân Khánh, Ninh Kiều",17 Đ. Trần Khánh Dư,Cần Thơ,900000.0,"Ninh Kiều, Cần Thơ",VN
-398,ChIJe-ideGaJoDERl_WabmpJmxM,Khách sạn Tân Tây Đô,Khách sạn,+84 913 626 399,"Khách sạn Tân Tây Đô, Q, 26 Trần Phú, P, Ninh Kiều, Cần Thơ, Việt Nam","P, Ninh Kiều","Q, 26 Trần Phú",Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-400,ChIJx90KojyHoDERqgX8sLaCc-E,Nhà Nghỉ - HomeStay 888,Nhà nghỉ dưỡng,+84 854 919 888,"Nhà Nghỉ - HomeStay 888, 144A Đ. Cách Mạng Tháng 8, Cái Khế, Bình Thủy, Cần Thơ 900000, Việt Nam","Cái Khế, Bình Thủy",144A Đ. Cách Mạng Tháng 8,Cần Thơ,900000.0,"Bình Thủy, Cần Thơ",VN
-401,ChIJm8rbjG2JoDERihsiXOskmu8,Ann Village,,+84 329 031 919,"Ann Village, Ong Tiem Bridge, 185C Đ. Trương Vĩnh Nguyên, Street, Thanh My Area, Cái Răng, Cần Thơ 900000, Việt Nam","Street, Thanh My Area, Cái Răng","Ong Tiem Bridge, 185C Đ. Trương Vĩnh Nguyên",Cần Thơ,900000.0,"Cái Răng, Cần Thơ",VN
-406,ChIJv7Offi6JoDERPBVB8PB551U,BÊ TÔNG RESIDENCES - HOMESTAY,Khách sạn,+84 907 191 161,"BÊ TÔNG RESIDENCES - HOMESTAY, 53/10 Đ. Lê Lai, An Lạc, Ninh Kiều, Cần Thơ 900000, Việt Nam","An Lạc, Ninh Kiều",53/10 Đ. Lê Lai,Cần Thơ,900000.0,"Ninh Kiều, Cần Thơ",VN
-413,ChIJ4XaiAuKJoDERLlRhTPRwJtE,Đông Châu Homestay,Lưu trú nhà dân,+84 918 990 906,"Đông Châu Homestay, 19 Hẻm 11 Mậu Thân, An Phú, Ninh Kiều, Cần Thơ, Việt Nam","An Phú, Ninh Kiều",19 Hẻm 11 Mậu Thân,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-414,ChIJGXC7-hxjoDERfU6Dc74mqOI,Homestay 63,Khách sạn,,"Homestay 63, 63/5 Đ. Nam Kỳ Khởi Nghĩa, Tân An, Ninh Kiều, Cần Thơ, Việt Nam","Tân An, Ninh Kiều",63/5 Đ. Nam Kỳ Khởi Nghĩa,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-415,ChIJQX-KQTCIoDER94_gBaU3hi4,Orchid Homestay,Khách sạn,+84 939 020 088,"Orchid Homestay, 290/27/2T Đ. Lê Bình, Hưng Lợi, Ninh Kiều, Cần Thơ, Việt Nam","Hưng Lợi, Ninh Kiều",290/27/2T Đ. Lê Bình,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-457,ChIJE4EYIkiJoDERY4r872QHVok,Homestay Đồng Xanh,Khách sạn,+84 979 227 762,"Homestay Đồng Xanh, Đ. Nguyễn Văn Cừ, Mỹ Khánh, Phong Điền, Cần Thơ, Việt Nam","Mỹ Khánh, Phong Điền",Đ. Nguyễn Văn Cừ,Cần Thơ,,"Phong Điền, Cần Thơ",VN
-459,ChIJgZIWGq-JoDERuWKe3xGSfxY,Six homestay,Khách sạn,+84 786 189 666,"Six homestay, 108/16 Đ. 30 Tháng 4, An Phú, Ninh Kiều, Cần Thơ, Việt Nam","An Phú, Ninh Kiều",108/16 Đ. 30 Tháng 4,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-467,ChIJbVYVZ6KNoDERcbfJO8iZ56Q,Homestay Mương Đình,Lưu trú nhà dân,,"XM8C+3G6 Homestay Mương Đình, Nhơn nghĩa A, Phong Điền, Hậu Giang, Việt Nam","Nhơn nghĩa A, Phong Điền",XM8C+3G6,Hậu Giang,,"Phong Điền, Hậu Giang",VN
-472,ChIJVxHWfnxjoDER06tCk6002zA,Latoshomestay,Lưu trú nhà dân,,"Latoshomestay, 25 Đ. Số 4, Khu dân Cư Nam Long, Cái Răng, Cần Thơ, Việt Nam","Khu dân Cư Nam Long, Cái Răng",25 Đ. Số 4,Cần Thơ,,"Cái Răng, Cần Thơ",VN
-473,ChIJWbjiOT-JoDERCA42_ckMHyg,Khách sạn Lê My,Khách sạn,,"Khách sạn Lê My, 66/11 Đ. Cách Mạng Tháng 8, Cái Khế, Bình Thủy, Cần Thơ 94200, Việt Nam","Cái Khế, Bình Thủy",66/11 Đ. Cách Mạng Tháng 8,Cần Thơ,94200.0,"Bình Thủy, Cần Thơ",VN
-475,ChIJed4Ri_1joDERcwnBpd6D4UQ,HOTEL BỒ CÂU,Khách sạn,+84 907 072 386,"HOTEL BỒ CÂU, 106c Trần Văn Khéo, Cái Khế, Ninh Kiều, Cần Thơ, Việt Nam","Cái Khế, Ninh Kiều",106c Trần Văn Khéo,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-476,ChIJvc7FIuJjoDERLF54wKGSIEw,Minh Anh Hotel - Khách Sạn Cần Thơ,Khách sạn,+84 854 555 902,"Minh Anh Hotel - Khách Sạn Cần Thơ, Dự án Trung tâm thương mại văn phòng và nhà ở Thùy, Đ. Nguyễn Bình Lê Lợi, Cái Khế, Ninh Kiều, Cần Thơ 900000, Việt Nam","Cái Khế, Ninh Kiều","Dự án Trung tâm thương mại văn phòng và nhà ở Thùy, Đ. Nguyễn Bình Lê Lợi",Cần Thơ,900000.0,"Ninh Kiều, Cần Thơ",VN
-478,ChIJa03r6YKJoDEReEUHXfyzL5c,KHÁCH SẠN HUYỀN TRÂN,Khách sạn,,"Việt Nam, Cần Thơ, Ninh Kiều, Thới Binh, Đ. Phan Đăng Lưu, KHÁCH SẠN HUYỀN TRÂN","Thới Bình, Ninh Kiều",87 Đ. Phan Đăng Lưu,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-486,ChIJgfYW851joDER0NjJxVcpjzM,Nhà nghĩ homestay NGỌC PHỐ,Khách sạn,+84 768 240 683,"Nhà nghĩ homestay NGỌC PHỐ, C1/3 Đường số 4, khu dân cư, Cái Răng, Cần Thơ, Việt Nam","khu dân cư, Cái Răng",C1/3 Đường số 4,Cần Thơ,,"Cái Răng, Cần Thơ",VN
-488,ChIJBVtBv_NjoDERWbg-VXwfYxE,LION 10 HOTEL,Khách sạn,+84 292 3779 955,"LION 10 HOTEL, 11 Đ. Phạm Ngọc Thạch, Cái Khế, Ninh Kiều, Cần Thơ 900000, Việt Nam","Cái Khế, Ninh Kiều",11 Đ. Phạm Ngọc Thạch,Cần Thơ,900000.0,"Ninh Kiều, Cần Thơ",VN
-489,ChIJa_Fo2DCHoDERhuiL0hV7e8k,Homestay canthoriver,Khách sạn,+84 797 484 151,"Homestay canthoriver, 83a/4 Nguyễn Thị Tạo, Long Hoà, Bình Thủy, Cần Thơ 94000, Việt Nam","Long Hoà, Bình Thủy",83a/4 Nguyễn Thị Tạo,Cần Thơ,94000.0,"Bình Thủy, Cần Thơ",VN
-493,ChIJoUnEi11joDERyPaX5pSSkkU,Nhu’s House 1,Lưu trú nhà dân,+84 931 963 889,"Nhu’s House 1, 8 Đ.Xô Viết Nghệ Tĩnh, Tân An, Ninh Kiều, Cần Thơ, Việt Nam","Tân An, Ninh Kiều",8 Đ.Xô Viết Nghệ Tĩnh,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-494,ChIJESrsnOBjoDERWP26lzE6R1A,Ninh Kiều Homestay,Khách sạn,+84 963 575 731,"Ninh Kiều Homestay, 9A Đ. Thủ Khoa Huân, Tân An, Ninh Kiều, Cần Thơ, Việt Nam","Tân An, Ninh Kiều",9A Đ. Thủ Khoa Huân,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-495,ChIJxR6iSLpjoDERceoTA-sVMpI,An Nam,Khách sạn,,"An Nam, 80 Lê Lợi, Cái Khế, Ninh Kiều, Cần Thơ, Việt Nam","Cái Khế, Ninh Kiều",80 Lê Lợi,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-497,ChIJU4SYPMmJoDER50xmlBe9NLI,Thiên Ân Hotel Homestay & Apartment,Khách sạn,,"Thiên Ân Hotel Homestay & Apartment, 15-17 Đ. Lê Lai, An Phú, Ninh Kiều, Cần Thơ, Việt Nam","An Phú, Ninh Kiều",15-17 Đ. Lê Lai,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-516,ChIJH1vwKjWJoDERoXlr6mewKd0,Hoang Anh Homestay,Khách sạn,+84 789 617 689,"XMWQ+V52 Hoang Anh Homestay, Mỹ Khánh, Phong Điền, Cần Thơ, Việt Nam","Mỹ Khánh, Phong Điền",XMWQ+V52,Cần Thơ,,"Phong Điền, Cần Thơ",VN
-517,ChIJ0zPhOUGJoDERMqX7XkWKsCM,My Khanh Resort,,,"My Khanh Resort, 335 Lộ Vòng Cung, Mỹ Khánh, Phong Điền, Cần Thơ, Việt Nam","Mỹ Khánh, Phong Điền",335 Lộ Vòng Cung,Cần Thơ,,"Phong Điền, Cần Thơ",VN
-518,ChIJ5-Iup8tjoDERhJTdN33Csug,Ete homestay,Khách sạn,+84 774 845 845,"Ete homestay, số 22 Hẻm 9 Đ. Xô Viết Nghệ Tĩnh, An Cư, Ninh Kiều, Cần Thơ 900000, Việt Nam","An Cư, Ninh Kiều",số 22 Hẻm 9 Đ. Xô Viết Nghệ Tĩnh,Cần Thơ,900000.0,"Ninh Kiều, Cần Thơ",VN
-519,ChIJp-SXPciJoDERW5H_jEesucw,CÔNG TY CÔ GÁI VIỆT,Biệt thự,,"CÔNG TY CÔ GÁI VIỆT, 42c Hẻm 132/42, An Cư, Ninh Kiều, Cần Thơ, Việt Nam","An Cư, Ninh Kiều",42c Hẻm 132/42,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-520,ChIJPW-oxkdjoDER_sr7QtE6VME,Nhà nghỉ Ngọc Thúy 3,Khách sạn,+84 292 3648 868,"Nhà nghỉ Ngọc Thúy 3, 86 Đ. Nguyễn Đức Cảnh, An Hội, Ninh Kiều, Cần Thơ, Việt Nam","An Hội, Ninh Kiều",86 Đ. Nguyễn Đức Cảnh,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-531,ChIJsaKlg9WJoDERWCD2TdaXmB4,Nhu’s House 2,Lưu trú nhà dân,+84 931 963 889,"Nhu’s House 2, 51 Hẻm Tổ 7, Phường An Khánh, Ninh Kiều, Cần Thơ, Việt Nam","Phường An Khánh, Ninh Kiều",51 Hẻm Tổ 7,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-532,ChIJl6iJ_wKJoDERfKDByOhOZh4,Lang Nguyễn ‘s Homestay,Lưu trú nhà dân,+84 909 273 484,"Lang Nguyễn ‘s Homestay, 2a Đường Trần Hoàng Na, Hưng Lợi, Ninh Kiều, Cần Thơ, Việt Nam","Hưng Lợi, Ninh Kiều",2a Đường Trần Hoàng Na,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-546,ChIJIxif6RaJoDERlgJ9Spzvfh0,Can Tho,Lưu trú nhà dân,,"Can Tho, 42/109 Hùng Vương, P, Ninh Kiều, Cần Thơ 94000, Việt Nam","P, Ninh Kiều",42/109 Hùng Vương,Cần Thơ,94000.0,"Ninh Kiều, Cần Thơ",VN
-547,ChIJ33AflhdjoDER4-NqsUsBdVo,HOTEL Linh Phương,Khách sạn,,"HOTEL Linh Phương, 161 Trần Văn Khéo, Cái Khế, Ninh Kiều, Cần Thơ, Việt Nam","Cái Khế, Ninh Kiều",161 Trần Văn Khéo,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-549,ChIJ8yVOsuqJoDER54Ovhr3yT4c,T-House,Khách sạn,+84 898 990 707,"T-House, City, 73 Đ. Phan Đăng Lưu, Thới Bình, Ninh Kiều, Cần Thơ, Việt Nam","Thới Bình, Ninh Kiều","City, 73 Đ. Phan Đăng Lưu",Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-551,ChIJfdshH5eJoDERPq9zcQNk39c,Phụng Nguyễn,Lưu trú nhà dân,+84 919 796 809,"Phụng Nguyễn, Nguyễn Văn Trường Bình Thủy Can Tho City, Việt Nam","Long Tuyền, Bình Thủy",Nguyễn Văn Trường Bình Thủy Can Tho City,Cần Thơ,,"Bình Thủy, Cần Thơ",VN
-552,ChIJLys0u5mJoDER_cdWthu_9Ls,Homestay Giàn Gừa,Lưu trú nhà dân,,"XPHF+J9H Homestay Giàn Gừa, Nhơn Nghĩa, Phong Điền, Cần Thơ, Việt Nam","Nhơn Nghĩa, Phong Điền",XPHF+J9H,Cần Thơ,,"Phong Điền, Cần Thơ",VN
-553,ChIJuZlNpSuJoDERlGzQ786p4f4,NHÀ TRỌ MANGO,Lưu trú nhà dân,+84 939 474 249,"NHÀ TRỌ MANGO, City, Đường Tạ Thị Phi, An Bình, Bình Thủy, Cần Thơ, Việt Nam","An Bình, Bình Thủy","City, Đường Tạ Thị Phi",Cần Thơ,,"Bình Thủy, Cần Thơ",VN
-554,ChIJLa2XhF2PoDER1HXqVGz9bPc,Huyền Trinh Homestay,Lưu trú nhà dân,+84 901 114 011,"Huyền Trinh Homestay, 79 Ấp Nhơn Phú, Xã, Nhơn ái, Phong Điền, Cần Thơ, Việt Nam","Nhơn ái, Phong Điền","79 Ấp Nhơn Phú, Xã",Cần Thơ,,"Phong Điền, Cần Thơ",VN
-555,ChIJMWLaMw1joDERXG1JT0Wn_wM,Bee homestay,Khách sạn,+84 939 444 483,"Bee homestay, 13 Đường Số 8, kdc Nam Long, Cái Răng, Cần Thơ 94909, Việt Nam","kdc Nam Long, Cái Răng",13 Đường Số 8,Cần Thơ,94909.0,"Cái Răng, Cần Thơ",VN
-557,ChIJdX9YF06JoDER1bZWFeff_cE,Nhà Trường Hảii,Lưu trú nhà dân,,"Nhà Trường Hảii, 18 Ngô Quyền, Lê Bình, Cái Răng, Cần Thơ, Việt Nam","Lê Bình, Cái Răng",18 Ngô Quyền,Cần Thơ,,"Cái Răng, Cần Thơ",VN
-558,ChIJH9ruWryJoDERcEUE9EMtdJQ,Nhà trọ Mỹ An,Lưu trú nhà dân,+84 908 990 993,"Nhà trọ Mỹ An, 129/98 Trần Vĩnh Kiết Cần Thơ Can Tho City, 92000, Việt Nam","An Bình, Ninh Kiều",129/98 Trần Vĩnh Kiết Cần Thơ Can Tho City,Cần Thơ,92000.0,"Ninh Kiều, Cần Thơ",VN
-562,ChIJw9O5DbtjoDERJSdDdVDPGtQ,12A Mạc Đĩnh Chi,Lưu trú nhà dân,,"12A Mạc Đĩnh Chi, 12A Hẻm 22 Đ. Mạc Đĩnh Chi, Tân An, Ninh Kiều, Cần Thơ, Việt Nam","Tân An, Ninh Kiều",12A Hẻm 22 Đ. Mạc Đĩnh Chi,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-563,ChIJxbsPmaBioDERgo4RLxrEVPo,T&P Homestay,Khách sạn,,"T&P Homestay, 23/37 Hẻm 22 Đ. Mạc Đĩnh Chi, An Cư, Ninh Kiều, Cần Thơ, Việt Nam","An Cư, Ninh Kiều",23/37 Hẻm 22 Đ. Mạc Đĩnh Chi,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-564,ChIJtbt_u42HoDER5HAKkT3AUcU,Nhà nghỉ Homestay KV,Khách sạn,+84 961 595 171,"Nhà nghỉ Homestay KV, 15 Lê Văn Bì, An Thới, Bình Thủy, Cần Thơ 900000, Việt Nam","An Thới, Bình Thủy",15 Lê Văn Bì,Cần Thơ,900000.0,"Bình Thủy, Cần Thơ",VN
-565,ChIJbz_czmpjoDERnvK-9EJzI-Y,Phú Phương Nam,Khách sạn,+84 913 738 772,"Phú Phương Nam, 26 Trần Quang Khải, An Hội, Ninh Kiều, Cần Thơ, Việt Nam","An Hội, Ninh Kiều",26 Trần Quang Khải,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-566,ChIJNf4TkZ9ioDERADrgT6x9nu8,Fairy Land Homestay,Khách sạn,+84 292 3817 049,"Fairy Land Homestay, 140 Đường Nguyễn An Ninh, Tân An, Ninh Kiều, Cần Thơ, Việt Nam","Tân An, Ninh Kiều",140 Đường Nguyễn An Ninh,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-567,ChIJi7O0ixyIoDERTBhibZx2PMc,Homestay Cô Gái Việt,,,"Homestay Cô Gái Việt, 132 Hùng Vương, An Cư, Ninh Kiều, Cần Thơ, Việt Nam","An Cư, Ninh Kiều",132 Hùng Vương,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-568,ChIJn05TdNBjoDER0E717VI9vqQ,Khách sạn Ngọc Mai 1,Khách sạn,+84 942 745 745,"Khách sạn Ngọc Mai 1, 50B2 Lý Hồng Thanh, P, Ninh Kiều, Cần Thơ 94000, Việt Nam","P, Ninh Kiều",50B2 Lý Hồng Thanh,Cần Thơ,94000.0,"Ninh Kiều, Cần Thơ",VN
-571,ChIJ3Xr36RyIoDERtcdFThgvZRQ,Khách Sạn Thiên Hương,,,"Khách Sạn Thiên Hương, 102 Hùng Vương, An Cư, Ninh Kiều, Cần Thơ, Việt Nam","An Cư, Ninh Kiều",102 Hùng Vương,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-575,ChIJq6q18QOIoDERb20P4cpMC_w,Lại Nguyễn Boutique Hotel,,,"Lại Nguyễn Boutique Hotel, 51A Đ. Cách Mạng Tháng 8, Thới Bình, Ninh Kiều, Cần Thơ 94000, Việt Nam","Thới Bình, Ninh Kiều",51A Đ. Cách Mạng Tháng 8,Cần Thơ,94000.0,"Ninh Kiều, Cần Thơ",VN
-576,ChIJI8jOdyiJoDERqH8N4hsPGOQ,Nhà Trọ Lương Phiên,Lưu trú nhà dân,,"Nhà Trọ Lương Phiên, 167X/7A, Hẻm 2, Nguyễn Minh Quang, Đ. Nguyễn Văn Cừ, Phường An Khánh, Ninh Kiều, Cần Thơ, Việt Nam","Phường An Khánh, Ninh Kiều","167X/7A, Hẻm 2, Nguyễn Minh Quang, Đ. Nguyễn Văn Cừ",Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-579,ChIJwwt0U_aJoDERbfG7XpXfmtE,The Three Musketeers - 3 Chàng Lính Ngự Lâm,Lưu trú nhà dân,+84 916 299 919,"The Three Musketeers - 3 Chàng Lính Ngự Lâm, City, 1 2A, Khu dân cư 923, Ninh Kiều, Cần Thơ, Việt Nam","Khu dân cư 923, Ninh Kiều","City, 1 2A",Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-583,ChIJtUCINB2JoDERCZmT6nsm0vc,Homestay Anh Phi,Nhà trọ,,"Homestay Anh Phi, Đường số 12, Khu CBGV, Phường An Khánh, Ninh Kiều, Cần Thơ, Việt Nam","Phường An Khánh, Ninh Kiều","Đường số 12, Khu CBGV",Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-584,ChIJNwEctzeIoDER-co188ZarnQ,D Homestay Can Tho,,,"D Homestay Can Tho, 90 Ngô Sĩ Liên, Hưng Lợi, Ninh Kiều, Cần Thơ 900000, Việt Nam","Hưng Lợi, Ninh Kiều",90 Ngô Sĩ Liên,Cần Thơ,900000.0,"Ninh Kiều, Cần Thơ",VN
-585,ChIJK0_6VaKJoDERHQwZgwoUtoA,LinoTureHouse,Lưu trú nhà dân,,"LinoTureHouse, 9 Khu Vực 3, Phường An Khánh, Ninh Kiều, Cần Thơ, Việt Nam","Phường An Khánh, Ninh Kiều",9 Khu Vực 3,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-586,ChIJN6z6Q3KJoDERK2v12WPHZjU,Winds’s House,Lưu trú nhà dân,,"Winds’s House, 15 Hẻm 51, Phường An Khánh, Ninh Kiều, Cần Thơ, Việt Nam","Phường An Khánh, Ninh Kiều",15 Hẻm 51,Cần Thơ,,"Ninh Kiều, Cần Thơ",VN
-587,ChIJKbuUJVNjoDERJak7BS4lIxc,Tizz Homestay,Lưu trú nhà dân,,"Tizz Homestay, 33B2, KDC Hưng Phú 1, Cần Thơ 94000, Việt Nam","KDC Hưng Phú 1, Cái Răng",33B2,Cần Thơ,94000.0,"Cái Răng, Cần Thơ",VN
-593,ChIJQ-wnjnVjoDER3uB48WgyIRI,Shop EU Online,Lưu trú nhà dân,+84 918 758 148,"Shop EU Online, 15 B2, KDC Hưng Phú 1, Cái Răng, Cần Thơ 02923, Việt Nam","KDC Hưng Phú 1, Cái Răng",15 B2,Cần Thơ,2923.0,"Cái Răng, Cần Thơ",VN
-594,ChIJz3Hmgn1ioDERtwrQ5hms2Z4,Minh Khoa Nhà Nghỉ - Homestay,Khách sạn,,"2Q5R+X7H Minh Khoa Nhà Nghỉ - Homestay, Đ. số 1, Hưng Phú, Cái Răng, Cần Thơ, Việt Nam","Hưng Phú, Cái Răng","2Q5R+X7H, Đ. số 1",Cần Thơ,,"Cái Răng, Cần Thơ",VN
+,place_id,name,main_category,phone,address,address_ward,address_street,address_city,address_postal_code,address_state,address_country_code,coordinates
+0,,Winter Spring Homestay,Căn hộ,,,,,,,,,"10.044890403747559,105.78294372558594"
+15,,Queenie House - Twin Room,Nhà ở,,,,,,,,,"10.033379554748535,105.77765655517578"
+16,,Dan Sinh Homestay - Deluxe Family Room,Nhà ở,,,,,,,,,"9.979809761047363,105.76624298095703"
+21,,Orchid Garden Homestay Can Tho,Nhà nghỉ dưỡng cho thuê,,,,,,,,,"10.05543041229248,105.76979064941406"
+31,,My Hoa Mekong Homestay,Nhà nghỉ dưỡng cho thuê,,,,,,,,,"10.021245002746582,105.83057403564453"
+46,,De Aquar Home Can Tho,Nơi lưu trú,,,,,,,,,"10.047750473022461,105.78265380859375"
+61,,Magnolia's Can Tho - Apartment with Balcony,Nhà ở,,,,,,,,,"10.030960083007812,105.78511810302734"
+62,,Emerald Boutique Stay - Studio with Balcony,Nhà ở,,,,,,,,,"10.033880233764648,105.78282165527344"
+65,,LITTLE DALAT HOMESTAY,Nhà nghỉ dưỡng cho thuê,,,,,,,,,"10.024749755859375,105.75074005126953"
+75,,Green Sunshine Can Tho,Nhà ở,,,,,,,,,"10.05085277557373,105.7489013671875"
+76,,De Rivé Homestay,Nhà nghỉ dưỡng cho thuê,,,,,,,,,"10.034440040588379,105.78829956054688"
+88,,Manh Phat Motel,Nhà nghỉ dưỡng cho thuê,,,,,,,,,"10.043149948120117,105.76545715332031"
+103,,Mekong Daniel Resort(Bungalow2),Nhà nghỉ dưỡng cho thuê,,,,,,,,,"10.036060333251953,105.7806396484375"
+106,,"Căn hộ 70m2, 2 phòng ngủ",Căn hộ,,,,,,,,,"10.044839859008789,105.76423645019531"
+108,,Cu Lao Xanh Homestay Can Tho,Căn hộ,,,,,,,,,"10.061630249023438,105.77639770507812"
+109,,My Hoa Mekong Homestay - Bungalow,Căn hộ,,,,,,,,,"10.021240234375,105.83056640625"
+110,,ARYE guest house,Nhà nghỉ dưỡng cho thuê,,,,,,,,,"10.006210327148438,105.73985290527344"
+123,,Grandma's House 2,Căn hộ,,,,,,,,,"10.001629829406738,105.74474334716797"
+147,,B Home B23 - Home away from home,Căn hộ,,,,,,,,,"10.050515174865723,105.77742004394531"
+148,,B Home B22 - Where you can feel like home,Căn hộ,,,,,,,,,"10.050569534301758,105.77743530273438"
+149,,Fabulous Mekong Homestay,Nhà ở,,,,,,,,,"10.033040046691895,105.77652740478516"
+150,,Ni's Homestay,Nhà nghỉ dưỡng cho thuê,,,,,,,,,"10.034284591674805,105.77201080322266"
+151,,08 Homestay - Deluxe Double or Twin Room with City View,Nhà ở,,,,,,,,,"10.045470237731934,105.7787094116211"
+152,,Can Tho home & apartment,Nhà nghỉ dưỡng cho thuê,,,,,,,,,"10.03390121459961,105.7854995727539"
+153,,Homestay demo,Nhà ở,,,,,,,,,"10.038840293884277,105.76325225830078"
+154,,Homestay Can Tho Green Sunshine,Nhà bungalow,,,,,,,,,"10.050985336303711,105.74891662597656"
+155,,Aluny Boutiquestay,Nhà ở,,,,,,,,,"10.029813766479492,105.78693389892578"
+156,,Thịnh's House - King Room with Balcony,Nhà ở,,,,,,,,,"10.046979904174805,105.77401733398438"
+157,,Homestay Can Tho Green Sunshine - B room,Nhà nghỉ dưỡng cho thuê,,,,,,,,,"10.05090618133545,105.7486801147461"
+158,,DUY'S HOME- Rooms for 4 people with bathroom,Nhà ở,,,,,,,,,"10.045860290527344,105.78703308105469"
+159,,LASAOMA HOMESTAY / QUEEN BED / PET FRIENDLY,Căn hộ,,,,,,,,,"10.037070274353027,105.76679992675781"
+160,,La'ANh Boutique Stay - Standard Double Room,Căn hộ,,,,,,,,,"10.051810264587402,105.77440643310547"
+161,,Rosy 1 studio with balcony on downtown,Nhà nghỉ dưỡng cho thuê,,,,,,,,,"10.034455299377441,105.77664947509766"
+162,,Căn hộ trung tâm - chia sẽ,Nhà ở,,,,,,,,,"10.045459747314453,105.78185272216797"
+163,,Stay House - Quadruple Room,Nhà ở,,,,,,,,,"10.032620429992676,105.77973937988281"
+164,,Mekong Daniel Resort (Bungalow3),Nhà bungalow,,,,,,,,,"10.035633087158203,105.7806625366211"
+165,,MIHA Villa - Three-Bedroom Apartment,Nhà ở,,,,,,,,,"10.011969566345215,105.74526977539062"
+166,,HO GIA AN Home - Phòng cho nhóm đi du lịch,Nhà nghỉ dưỡng cho thuê,,,,,,,,,"10.006148338317871,105.7398910522461"
+167,,Nhu's House,Nhà nghỉ dưỡng cho thuê,,,,,,,,,"10.037798881530762,105.78453063964844"
+168,,Ctmedia bed and breakfast,Nhà nghỉ dưỡng cho thuê,,,,,,,,,"10.009037017822266,105.78750610351562"
+169,,HO GIA AN Home - Double Room,Nhà ở,,,,,,,,,"10.006190299987793,105.73990631103516"
+170,,Can Tho GREEN SUNSHINE with nature ( Lotus R),Nhà nghỉ dưỡng cho thuê,,,,,,,,,"10.050835609436035,105.74880981445312"
+171,,Winter Spring Colors House,Nhà ở,,,,,,,,,"10.049039840698242,105.78510284423828"
+172,,Mekong Daniel Resort,Nhà bungalow,,,,,,,,,"9.98318862915039,105.72578430175781"
+173,,Nhu's House 2 - Two-Bedroom Apartment,Nhà ở,,,,,,,,,"10.027680397033691,105.75221252441406"
+174,,Nha Homestay-Family Bungalow (for 6),Nhà bungalow,,,,,,,,,"10.000419616699219,105.71096801757812"
+175,,Winter Spring Homestay Center - Family Studio,Nhà ở,,,,,,,,,"10.044890403747559,105.7857894897461"
+176,,HO GIA AN Home - Căn hộ ngay chợ nổi,Nhà nghỉ dưỡng cho thuê,,,,,,,,,"10.006192207336426,105.73989868164062"
+182,,K2 Homestay  Coffee - Superior Family Room,Nhà ở,,,,,,,,,"10.038649559020996,105.78398895263672"
+185,,10 Homestay,Nhà ở,,,,,,,,,"10.034440040588379,105.78858184814453"
+186,,LaLa mini house + Balcony - 5min to Ninh Kieu Quay,Nhà nghỉ dưỡng cho thuê,,,,,,,,,"10.0286226272583,105.78504943847656"
+188,,Mekong Daniel Resort (Bungalow6),Nhà bungalow,,,,,,,,,"10.035633087158203,105.7806625366211"
+189,,54 Homestay - Deluxe King Room,Nhà ở,,,,,,,,,"10.033120155334473,105.78585815429688"
+191,,Six Homestay,Nhà ở,,,,,,,,,"10.030449867248535,105.77841186523438"
+200,,Thanh Hằng Homestay - Family Room with Balcony,Nhà ở,,,,,,,,,"10.032890319824219,105.78575897216797"
+202,,Brown House Resort - Family Bungalow,Nhà ở,,,,,,,,,"10.003560066223145,105.707763671875"
+236,,HO GIA AN Home - Căn hộ ngay Trung Tâm,Nhà ở,,,,,,,,,"10.045479774475098,105.78191375732422"
+237,,Homestay Cô Gái Việt - Double Room,Nhà ở,,,,,,,,,"10.043379783630371,105.77559661865234"
+249,,"Nhà phố nguyên căn ngay trung tâm sầm uất, 7 phòng",Nhà ở,,,,,,,,,"10.044610023498535,105.7859878540039"
+302,,Quyen's house - Double Room with Private Bathroom,Nhà ở,,,,,,,,,"10.035149574279785,105.78095245361328"
+307,,Manh Phat Guesthouse - Nhà Nghỉ Mạnh Phát - Superior Queen Room,Nhà ở,,,,,,,,,"10.0458402633667,105.76325988769531"
+328,,Thiên Lam Homestay - Double Room,Nhà ở,,,,,,,,,"10.03872013092041,105.76331329345703"
+352,,HO GIA AN Home - Phòng tình nhân,Nhà ở,,,,,,,,,"10.03777027130127,105.7668228149414"
+363,,Ruby Motel,Căn hộ,,,,,,,,,"10.020606994628906,105.7439956665039"
+374,,Mekong Farmstay CanTho - C.R Floating Market - Deluxe Double Room,Nhà ở,,,,,,,,,"10.015000343322754,105.72875213623047"
+376,,HO GIA AN Home - Phòng chung,Nhà ở,,,,,,,,,"10.006059646606445,105.7397689819336"
+380,,Nhà Yên’s Homestays Hotels Retreats Cần Thơ,Nhà ở,,,,,,,,,"10.011489868164062,105.75845336914062"
+385,,Bến Đò Xưa Homestay  Coffee - Double Room with Pool View,Căn hộ,,,,,,,,,"9.997659683227539,105.74674987792969"
+387,,HO GIA AN Home - Căn hộ yên bình,Biệt thự,,,,,,,,,"10.00214958190918,105.74638366699219"
+397,,Cato Homestay - Bungalow with Patio,Nhà ở,,,,,,,,,"10.00037956237793,105.71109008789062"
+433,,Grandma House - King Room,Nhà ở,,,,,,,,,"10.001500129699707,105.74507904052734"
+490,,NHÀ NGHỈ XUÂN LAN CẦN THƠ - Deluxe Triple Room,Nhà ở,,,,,,,,,"10.018610000610352,105.76660919189453"
+576,,Can Tho Home  Apartment,Nhà ở,,,,,,,,,"10.033889770507812,105.7854995727539"
+579,,Nhu's house,Nhà ở,,,,,,,,,"10.037739753723145,105.78431701660156"

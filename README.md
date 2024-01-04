@@ -3,7 +3,8 @@
 3. File utils.py dùng để xử lý những ký tự đặc biệt: chữ viết của Ấn Độ,...
 4. File time_utils.py dùng để xử lý dạng thời gian
 5. File sort_filter.py dùng để tạo chức năng sắp xếp giá trị trả về
-
+6. File social_scraper.py 
+7. File scraper.py 
 
 ![Google Maps Scraper Feautred Image](https://raw.githubusercontent.com/omkarcloud/google-maps-scraper/master/screenshots/google-maps-scraper-feautred-image.png)
 
