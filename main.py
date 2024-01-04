@@ -5,7 +5,7 @@ from casefy import kebabcase
 
 #coordinates = pd.read_excel(r"C:\Users\thinh.lv\google-maps-scraper\src\xlsx\coordinates-quan1-hcm.xlsx")
 #coordinates = pd.read_excel(r"C:\Users\thinh.lv\google-maps-scraper\src\xlsx\coordinates-quan1-hcm_v2.xlsx")
-coordinates = pd.read_excel(r"C:\Users\thinh.lv\google-maps-scraper\src\xlsx\coordinates-quan1-hcm_v3.xlsx")[:21]
+coordinates = pd.read_excel(r"C:\Users\thinh.lv\google-maps-scraper\src\xlsx\coordinates-quan1-hcm_v3.xlsx")[:26]
 geo_coordinates  = [i for i in coordinates["lat_long"]]
 start_time = time.time()
 fields = [
@@ -21,9 +21,9 @@ fields = [
 ]
 
 
-queries = ["kính mắt"
+queries = ["nhà nghỉ"
            ]
-max = 40
+max = 20
 
 Gmaps.places(queries, geo_coordinates = geo_coordinates, zoom = 18 , max = max, fields=fields, convert_to_english = False ,lang=Gmaps.Lang.Vietnamese)
 
