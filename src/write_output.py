@@ -7,9 +7,9 @@ from src.utils import kebab_case, sort_dict_by_keys, unicode_to_ascii
 
 
 def make_folders(query_kebab):
-  create_directory_if_not_exists(f"output/quan1_hcm/{query_kebab}/")
-  create_directory_if_not_exists(f"output/quan1_hcm/{query_kebab}/json/")
-  create_directory_if_not_exists(f"output/quan1_hcm/{query_kebab}/csv/")
+  create_directory_if_not_exists(f"output/quan4_hcm_bo_sung/{query_kebab}/")
+  create_directory_if_not_exists(f"output/quan4_hcm_bo_sung/{query_kebab}/json/")
+  create_directory_if_not_exists(f"output/quan4_hcm_bo_sung/{query_kebab}/csv/")
   pass
 
 
@@ -441,8 +441,8 @@ def write_output(query, places, selected_fields):
     query_kebab = kebab_case(query)
     make_folders(query_kebab)
 
-    csv_path = f"output/quan1_hcm/{query_kebab}/csv/" 
-    json_path = f"output/quan1_hcm/{query_kebab}/json/"
+    csv_path = f"output/quan4_hcm_bo_sung/{query_kebab}/csv/" 
+    json_path = f"output/quan4_hcm_bo_sung/{query_kebab}/json/"
     # + query_kebab + "-"
 
 
